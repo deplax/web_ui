@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+body { 
+	background:#e5e5e5;
+	margin:auto;
+	
+	}
+
+header {
+	background:#f1f1f1;
+	width:auto;
+	height:60px;
+	}
+.header {
+
+	}
+	
+nav {
+	background:#FFFFFF;
+	}
+	
+#main_search{
+	font: 16px arial,sans-serif;
+	border:#cccccc;
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+	margin:0px;
+	}
+	
+#main_search_botton{
+	color: white;
+	width:60px;
+	height:30px;
+	background:#4285f4;
+	border-style:none;
+	border-radius:2px;
+	border-top-left-radius:0px;
+	border-bottom-left-radius:0px;
+	margin:0px
+	}
+#main_button_set{
+	
+	}
+	
+#main_logo {
+	margin:15px 30px;
+	width:183px;
+	height:39px;
+	}
+	
+div.book {
+	width:126px;
+	height:193px;
+}
+
+img.bookimg{
+	width:100%;
+	height:100%;
+}
+
+.nobullet {
+	list-style:none;
+}
+
+.middle_align{
+	display: table-cell;
+	vertical-align: middle;
+}
