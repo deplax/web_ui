@@ -1,0 +1,29 @@
+{
+	"main" : 
+	[{
+		"title_main" : "주간 베스트셀러",
+		"title_sub" :  "주 동안 가장 많은 사랑을 받은 도서"
+	},
+	{
+		"title_main" : "맞춤 추천",
+		"title_sub" :  ""
+	}],
+
+	"other" :
+	[{
+		"title_main" : "새로나온 도서",
+		"title_sub" :  ""
+	},
+	{
+		"title_main" : "베스트 셀러",
+		"title_sub" :  ""
+	},
+    {
+		"title_main" : "추가 쉘프",
+		"title_sub" :  ""
+	},
+    {
+		"title_main" : "추가 쉘프 2",
+		"title_sub" :  ""
+	}]
+}

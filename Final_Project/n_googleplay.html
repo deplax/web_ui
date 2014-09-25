@@ -1,0 +1,140 @@
+<!-- do it!! -->
+<!-- 코드가 쓸데없이 길다. 자바랑 연동하면 어떻게든 줄일 수 있겠네요. -->
+<!-- id는 꼭 필요한 경우에만 달고 그 이외에는 모두 class 처리 -->
+<!-- 클래스는 아무래도 계속 증식할테니 뭔가 규칙이 필요해... 속성_종류_이름 이렇게 할까.... -->
+<!-- 인덴트 문제 어떻게 안되나... 편한 툴이 있을 법 하다. -->
+<!-- 구조 문제 때문에 마무리 후에 전체적으로 코드 다이어트가 이로울 듯 -->
+<!-- 호접지코드 프로젝트 -->
+<!-- db를 분리하는 것이 옳으나 넛지가 없다면 하지 않을 예정 -->
+<!--  -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="n_google.css">
+    <title>Google Play도서</title>
+</head>
+<!-- ============================================ head 영역 종료 -->
+<body>
+	<header>
+		<div class="area_mainlogo"> <a href="https://play.google.com/store"> <img class="img_mainlogo" src="http://www.gstatic.com/android/market_images/web/play_logo_x2.png"> </a> </div>
+		<div class="area_searchbox">
+			<div class="search_box">
+				<input class="search_text" type="text" placeholder="검색">
+				<button class="search_button"><span class="img_search"></span></button>
+			</div>
+		</div>
+		<div class="area_buffer"> </div>
+		<div class="area_app"> <span class="img_app"></span> </div>
+		<div class="area_login">
+			<button class="login_button">로그인</button>
+		</div>
+	</header>
+	<!-- ============================================ header 종료 -->
+	<nav>
+		<div class="area_sidebar">
+			<div class="area_lib">
+				<div class="img_lib"></div>
+				<div class="title_lib">도서</div>
+			</div>
+			<div class="expand"><span class="img_expand"></span></div>
+			<div class="side_menu">
+				<div class="my_book">내 책</div>
+				<div class="shopping">쇼핑하기</div>
+			</div>
+		</div>
+		<div class="area_space"> </div>
+		<div id="area_btn_g" class="area_catagory">
+			<div id="btn_g" class="nav_button">장르
+				<div id="menu_dropdown">
+					<ul>
+						<!-- Template에 의해 메뉴 목록 동적 생성 -->
+					</ul>
+				</div>
+			</div>
+			<div class="img_catagory"> </div>
+		</div>
+		<div class="area_bar">
+			<div class="divition_bar"> </div>
+		</div>
+		<div class="area_nav_button">
+			<div class="nav_button">홈</div>
+			<div class="nav_button">인기 차트</div>
+			<div class="nav_button">신간</div>
+		</div>
+		<div class = "area_buffer"> </div>
+		<div class="area_setting_button">
+			<div class="help_button"><span class="img_help"></span></div>
+			<div class="setting_button"><span class="img_setting"></span></div>
+		</div>
+	</nav>
+<!-- ================================================ nav 종료 -->
+	<article id="article">
+		<!-- Template에 의해 Contents 동적 생성  -->
+	</article>
+<!-- ============================================ article 종료 -->
+	<footer>
+		<div class="area_footer">
+			<div class="footer01">©2014 Google 사이트 서비스 약관 기기 판매약관 개인정보취급방침 개발자</div>
+			<div class="footer02">상호명: Google Inc. | 대표자: Eric Schmidt | 주소: 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States | 대표전화: +1 650-253-0000 | 도움말 | 이메일: gpk-usersupport@google.com </div>
+			<div class="footer03">구글 플레이에 등록된 앱과 게임은 개발자들이 제공하고 판매하는 것이며, 구글은 개발자가 아닌 이상 등록한 상품 정보 및 거래에 대한 어떠한 책임도 지지 않습니다. </div>
+		</div>
+	</footer>
+<!-- ============================================= footer 종료 -->
+	<script type="template" id="frm_bookcard">
+		<li>
+			<div class="area_cardbox">
+				<div class="book_card"> 
+					<a href="<%=url_book%>">
+						<div class="up_section">
+							<img class="img_book" src="<%=img_book%>">
+						</div>
+					</a>
+					<div class="hover_cover">
+						<div class="down_section"> 
+							<a href="#">
+								<div class="opt"></div>
+								<h2><%=book_name%></h2>
+							</a>
+							<div class="info"> 
+								<a href="#">
+									<span class="name"><%=writer%></span>
+									<div class="opt_price"></div>
+								</a> 
+								<a href="#">
+									<span class="price"><%=book_price%></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</li>
+	</script>
+<!-- ========================================================== -->
+	<script type="template" id="frm_bookShelf">
+		<div class="area_bookshelf">
+			<div class="book_title">
+				<div class="area_title"> 
+					<span class="shelf_title"><%=title_main%></span> 
+					<span class="shelf_subtitle"><%=title_sub%></span> 
+				</div>
+				<div class="area_more_button">
+					<button id="<%=btn_more_id%>" class="more_button">더보기</button>
+				</div>
+			</div>
+			<ul>
+
+				<%=card_section%>
+				
+			</ul>
+		</div>
+	</script>
+<!-- ========================================================== -->
+	<script type="template" id="frm_dropdownMenu">
+		<li id="<%=menu%>" class="liStyle"><div><%=menu_str%></div></li>
+	</script>
+<!-- ========================================================== -->
+	<script src="behavior.js"></script>
+	<!-- 스크립트 영역 종료 -->
+</body>
+</html>

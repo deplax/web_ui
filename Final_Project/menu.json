@@ -1,0 +1,20 @@
+{
+	"dropdownSet" : {
+		"family" : "가족 / 관계",
+		"health" : "건강 / 웰빙",
+		"economy" : "경영 / 경제",
+		"science" : "과학 / 수학",
+		"cartoon" : "만화",
+		"noval" : "소설 / 문학",
+		"child" : "어린이",
+		"journey" : "여행",
+		"history" : "역사",
+		"art" : "예술과 디자인",
+		"foreign" : "외국어 / 교재",
+		"cook" : "요리 / 음료",
+		"people" : "인물 / 자서전",
+		"politics" : "정치 / 사회",
+		"region" : "종교",
+		"tech" : "컴퓨터 / 기술"
+	}
+}

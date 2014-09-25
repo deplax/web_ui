@@ -1,0 +1,849 @@
+{	
+	"list_1" :
+	[
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%9B%88_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8_%EB%A7%88%EC%8A%A4%ED%84%B0?id=dgQ-BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/dgQ-BAAAQBAJ?fife=w340-rw",
+     "book_name" : "다이어트 마스터",
+     "writer" : "김지훈",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%AC%EC%8A%A4%EC%A1%B0%EC%84%A0_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%83%88%ED%95%B4_%EA%B8%88%EC%97%B0_%EA%B8%88%EC%A3%BC%EC%97%90_%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94_%EA%B8%B0%EC%88%A0?id=l4DYLxE6jhsC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/l4DYLxE6jhsC?fife=w340-rw",
+     "book_name" : "새해, 금연 &amp; 금주에 성공하는 기술",
+     "writer" : "헬스조선 편집팀",
+     "book_price" : "₩2,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_2014%EB%85%84_8%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=Er8tBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Er8tBAAAQBAJ?fife=w340-rw",
+     "book_name" : "웰빙라이프 2014년 8월호 (월간)",
+     "writer" : "웰빙라이프 편집팀",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1_%EB%A0%9B%EB%AF%B8%EC%9D%B8_%EC%9C%84%ED%97%98%ED%95%9C_%EC%A7%84%EC%8B%A4?id=18MtBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/18MtBAAAQBAJ?fife=w340-rw",
+     "book_name" : "렛미인 위험한 진실",
+     "writer" : "서울교육방송",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%A9%EC%84%B1%ED%98%9C_%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90_%EB%94%94%ED%86%A1%EC%8A%A4?id=QqoIBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QqoIBAAAQBAJ?fife=w340-rw",
+     "book_name" : "동의보감 디톡스",
+     "writer" : "방성혜",
+     "book_price" : "₩12,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%94%94%ED%8C%A9_%EC%B4%88%ED%94%84%EB%9D%BC_%EB%A7%88%EC%9D%8C%EC%9D%98_%EA%B8%B0%EC%A0%81?id=XzfzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/XzfzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "마음의 기적",
+     "writer" : "디팩 초프라",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EB%AC%B8%ED%99%94_%EC%84%B8%ED%8A%B8_%EC%84%B1%EC%9D%B8%EB%B3%91_%EC%98%88%EB%B0%A9%EA%B3%BC_%EC%8B%9D%EC%83%9D%ED%99%9C_%EA%B1%B4%EA%B0%95%EB%B2%95?id=r4oOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/r4oOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 성인병 예방과 식생활 건강법",
+     "writer" : "홍문화",
+     "book_price" : "₩9,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%8F%99%EA%B8%B0_%EA%B3%A8%ED%94%84%EC%9D%98_%EA%B8%B0%EB%B3%B8%EA%B3%BC_%EC%97%B0%EC%8A%B5%EB%B0%A9%EB%B2%95?id=DXfqAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DXfqAAAAQBAJ?fife=w340-rw",
+     "book_name" : "골프의 기본과 연습방법",
+     "writer" : "김동기",
+     "book_price" : "₩11,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/KBS_%EC%83%9D%EB%A1%9C%EB%B3%91%EC%82%AC%EC%9D%98_%EB%B9%84%EB%B0%80_%EC%A0%9C%EC%9E%91%ED%8C%80_%EC%84%B8%ED%8A%B8_KBS_%EC%83%9D%EB%A1%9C%EB%B3%91%EC%82%AC%EC%9D%98_%EB%B9%84%EB%B0%80_%EC%A0%9C%EC%9E%91%ED%8C%80%EC%9D%B4_%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94_%EA%B1%B4%EA%B0%95_%EC%97%90%EC%84%B8%EC%9D%B4?id=oIUOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/oIUOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] <KBS 생로병사의 비밀> 제작팀이 알려주는 건강 에세이",
+     "writer" : "KBS <생로병사의 비밀> 제작팀",
+     "book_price" : "₩15,120"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9A%B0%ED%8E%98_%EB%9D%BC%EB%B8%90%EC%8A%A4%EC%BD%94%ED%94%84_%EC%84%B8%ED%8A%B8_%EA%B1%B4%EA%B0%95%EC%9D%98%EC%95%BD%ED%92%88_%EB%B0%94%EB%A1%9C_%EC%95%8C%EA%B3%A0_%EB%B3%B5%EC%9A%A9%ED%95%98%EC%9E%90?id=QIoOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QIoOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 건강의약품 바로 알고 복용하자!",
+     "writer" : "우페 라븐스코프",
+     "book_price" : "₩12,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%A4%80%EC%88%99_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4_1_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8_%ED%8E%B8?id=8IcOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/8IcOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸을 살린다 1 [다이어트 편]",
+     "writer" : "이준숙",
+     "book_price" : "₩14,250"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%9C%A4%EC%84%A0_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4_4_%EB%85%B8%ED%99%94%EB%B0%A9%EC%A7%80_%ED%8E%B8?id=GIkOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/GIkOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸을 살린다 4 [노화방지 편]",
+     "writer" : "김윤선",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%95%B4%EB%8D%94_%ED%8B%B1_%ED%86%B5%EC%A6%9D%EC%97%90_%EB%8C%80%ED%95%9C_%EA%B1%B0%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=Gs0UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Gs0UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "통증에 대한 거의 모든 것",
+     "writer" : "해더 틱",
+     "book_price" : "₩10,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EA%B6%8C%EC%A0%9C_%EC%84%B8%ED%8A%B8_%EC%95%8C%EA%B3%A0_%EB%A8%B9%EC%96%B4%EC%95%BC_%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94_%EC%9D%8C%EC%8B%9D%EC%9D%B4%EC%95%BC%EA%B8%B0?id=ZYoOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ZYoOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 알고 먹어야 도움되는 음식이야기",
+     "writer" : "김권제",
+     "book_price" : "₩19,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%96%91%EC%9A%B0%EC%9B%90_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%80_%EB%82%B4%EA%B0%80_%EC%B1%99%EA%B8%B4%EB%8B%A4?id=rIkOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rIkOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸은 내가 챙긴다!",
+     "writer" : "양우원",
+     "book_price" : "₩21,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%84%EC%A4%80%ED%98%95_%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EB%8F%84_%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%A7%80_%EC%95%8A%EC%9D%80_%EC%82%AC%ED%9A%8C%EC%9D%B8_%EC%95%BC%EA%B5%AC?id=hkc-BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/hkc-BAAAQBAJ?fife=w340-rw",
+     "book_name" : "프로야구도 알려주지 않은 사회인 야구",
+     "writer" : "전준형",
+     "book_price" : "₩5,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%8A%B9%ED%98%84_%EC%8B%A4%ED%98%84%EA%B0%80%EB%8A%A5_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=c-YCBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/c-YCBAAAQBAJ?fife=w340-rw",
+     "book_name" : "실현가능 다이어트",
+     "writer" : "김승현",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%A9%EC%A7%80%EB%AA%A8%EC%9B%90%EC%9E%A5_%ED%95%9C%EC%9D%98%EC%82%AC%EA%B0%80_%EC%8B%A4%EC%B2%9C%ED%95%98%EB%8A%94_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%A7%80%ED%82%A4%EB%8A%94_%EB%A9%B4%EC%97%AD%EB%A0%A5%EA%B3%BC_%EB%82%B4%EA%B8%B0_%E5%85%A7%E6%B0%A3?id=HjrzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/HjrzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한의사가 실천하는 내 몸을 지키는 면역력과 내기(內氣)",
+     "writer" : "황지모원장",
+     "book_price" : "₩2,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%B0%A8%EB%93%9C_%EC%B9%B4%EB%AA%A8%EB%82%98_%EB%91%90%EB%87%8C_%ED%98%81%EB%AA%85_30%EC%9D%BC?id=hVDzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/hVDzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "두뇌 혁명 30일",
+     "writer" : "리차드 카모나",
+     "book_price" : "₩11,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EC%9E%AC%EC%9A%B0_%EC%88%98%EC%88%A0%ED%95%98%EC%A7%80_%EC%95%8A%EA%B3%A0_%ED%97%88%EB%A6%AC%EB%B3%91_%ED%97%88%EB%A6%AC%EB%94%94%EC%8A%A4%ED%81%AC_%EC%B9%98%EB%A3%8C%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95?id=FUCsAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/FUCsAwAAQBAJ?fife=w340-rw",
+     "book_name" : "수술하지 않고 허리병, 허리디스크 치료하는 방법",
+     "writer" : "정재우",
+     "book_price" : "₩10,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B3%A8%ED%94%84%EA%B0%80%EC%9D%B4%EB%93%9C_%ED%8E%B8%EC%A7%91%EB%B6%80_%EC%9B%94%EA%B0%84_GOLF_guide_2014%EB%85%84_7%EC%9B%94%ED%98%B8?id=TcAKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/TcAKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "월간 GOLF guide 2014년 7월호",
+     "writer" : "골프가이드 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AF%B8%EB%94%94%EC%96%B4%EB%B8%94%EB%A7%81%ED%8E%B8%EC%A7%91%EB%B6%80_GO_OUT_KOREA_2014%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=KMAKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/KMAKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "GO OUT KOREA 2014년 7월호 (월간)",
+     "writer" : "미디어블링편집부",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%9C%EC%9D%B4%EC%8A%A8_%EC%BC%84%EB%8B%AC_%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%A7%84%EC%A7%9C_%EB%A9%94%EC%9D%B4%EC%A0%80%EB%A6%AC%EA%B7%B8%EB%8B%A4?id=25r-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/25r-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "이것이 진짜 메이저리그다",
+     "writer" : "제이슨 켄달",
+     "book_price" : "₩11,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%AC%EC%8A%A4%EC%A1%B0%EC%84%A0_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%9A%B4%EB%8F%99%EC%86%8D%EC%97%90_%EC%88%A8%EA%B2%A8%EC%A7%84_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%9D%98_%EB%B9%84%EB%B0%80?id=06t5hDu8NPAC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/06t5hDu8NPAC?fife=w340-rw",
+     "book_name" : "운동속에 숨겨진 다이어트의 비밀",
+     "writer" : "헬스조선 편집팀",
+     "book_price" : "₩2,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%8F%99%ED%98%84_%EC%9D%B4%EA%B8%B0%EB%8A%94_%ED%9E%98_%EC%9D%B8%EC%82%BC?id=mG_zAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/mG_zAwAAQBAJ?fife=w340-rw",
+     "book_name" : "이기는 힘, 인삼",
+     "writer" : "김동현",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EB%AF%BC_%EC%9A%B0%EB%A6%AC%EA%B0%80_%EC%95%8C%EC%95%84%EC%95%BC_%ED%95%A0_%ED%8A%BC%EC%82%B4_96%EA%B0%80%EC%A7%80?id=7vpCAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/7vpCAwAAQBAJ?fife=w340-rw",
+     "book_name" : "우리가 알아야 할 튼살 96가지",
+     "writer" : "홍성민",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%98%81%EB%AF%BC_%EC%95%BC%EB%A7%88%EC%B9%B4%EC%8B%9C?id=um7zAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/um7zAwAAQBAJ?fife=w340-rw",
+     "book_name" : "야마카시",
+     "writer" : "김영민",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_2014%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=LjPzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/LjPzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "웰빙라이프 2014년 7월호 (월간)",
+     "writer" : "웰빙라이프 편집팀",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%8B%A0%ED%98%9C_%ED%95%9C%EC%9E%85_%EA%B3%BC%EC%9D%BC_%EB%A0%88%EC%8B%9C%ED%94%BC?id=tab-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/tab-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "한입 과일 레시피",
+     "writer" : "김신혜",
+     "book_price" : "₩6,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8B%9C%EB%AF%B8%EC%A6%88_%EB%A1%AF%EC%B9%B8_%EC%97%AC%EC%9E%90%EC%9D%98_%EC%99%84%EC%84%B1%EC%9D%80_%EC%96%BC%EA%B5%B4%EC%9D%B4%EB%8B%A4?id=ZrXvAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ZrXvAwAAQBAJ?fife=w340-rw",
+     "book_name" : "여자의 완성은 얼굴이다",
+     "writer" : "시미즈 롯칸",
+     "book_price" : "₩6,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%82%AC_%EB%9E%AD%ED%82%A8_%EB%A7%88%EC%9D%B4_%EC%8B%9C%ED%81%AC%EB%A6%BF_%EB%8B%A5%ED%84%B0_%EB%82%B4_%EC%B9%9C%EA%B5%AC%EA%B0%80_%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC_%EC%9D%98%EC%82%AC%EB%9D%BC%EB%A9%B4_%EA%BC%AD_%EB%AC%BB%EA%B3%A0_%EC%8B%B6%EC%9D%80_%EC%97%AC%EC%9E%90_%EB%AA%B8_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=nncaBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/nncaBAAAQBAJ?fife=w340-rw",
+     "book_name" : "마이 시크릿 닥터 : 내 친구가 산부인과 의사라면 꼭 묻고 싶은 여자 몸 이야기",
+     "writer" : "리사 랭킨",
+     "book_price" : "₩11,060"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%B3%91%ED%9B%88_%EC%9E%90%EC%A0%84%EA%B1%B0%EC%9D%98_%EA%B1%B0%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=rP58AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rP58AwAAQBAJ?fife=w340-rw",
+     "book_name" : "자전거의 거의 모든 것",
+     "writer" : "김병훈",
+     "book_price" : "₩11,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%AC%EC%8A%A4%EC%A1%B0%EC%84%A0_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%83%88%ED%95%B4_%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9D%B8_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8_%EA%B8%B0%EC%88%A0?id=u4QcJ_5LbX0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/u4QcJ_5LbX0C?fife=w340-rw",
+     "book_name" : "새해, 체계적인 다이어트 기술",
+     "writer" : "헬스조선 편집팀",
+     "book_price" : "₩2,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%88_%EB%B3%BC%ED%8A%B8_%ED%85%8C%EC%9D%BC%EB%9F%AC_%EA%B8%8D%EC%A0%95%EC%9D%98_%EB%87%8C?id=IYthAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/IYthAwAAQBAJ?fife=w340-rw",
+     "book_name" : "긍정의 뇌",
+     "writer" : "질 볼트 테일러",
+     "book_price" : "₩8,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%88%80%EB%A6%AC_%EB%A8%B9%EC%9C%BC%EB%A9%B4%EC%84%9C_%EC%82%B4_%EB%B9%BC%EB%8A%94_%EC%88%80%EB%A6%AC%EC%9D%98_%EC%9E%91%EC%8B%AC%EC%82%BC%EC%9D%BC_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=aVUSNB4dP2IC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/aVUSNB4dP2IC?fife=w340-rw",
+     "book_name" : "먹으면서 살 빼는 숀리의 작심삼일 다이어트",
+     "writer" : "숀리",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B6%8C%EC%A7%84%EC%98%81_%ED%95%9C_%EA%B6%8C%EC%9C%BC%EB%A1%9C_%EB%81%9D%EB%82%B4%EB%8A%94_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=GRUAAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/GRUAAAAAQBAJ?fife=w340-rw",
+     "book_name" : "한 권으로 끝내는 다이어트의 모든 것",
+     "writer" : "권진영",
+     "book_price" : "₩10,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%E7%94%B3%E9%89%89%E5%AE%97_%EC%86%90%EB%A7%8C_%EC%A5%90%EB%A9%B4_%EC%A0%80%EC%A0%88%EB%A1%9C_%EB%90%98%EB%8A%94_%EB%8B%A8%EC%A0%84%ED%98%B8%ED%9D%A1?id=38pAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/38pAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "손만 쥐면 저절로 되는 단전호흡",
+     "writer" : "申鉉宗",
+     "book_price" : "₩3,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9C%A0%ED%99%8D%EC%A2%85_%ED%85%8C%EB%9D%BC%ED%94%BC_Freestyle_%ED%83%80%EC%9D%B4%EB%A7%88%EC%82%AC%EC%A7%80?id=fQOtAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/fQOtAwAAQBAJ?fife=w340-rw",
+     "book_name" : "테라피 Freestyle 타이마사지",
+     "writer" : "유홍종",
+     "book_price" : "₩7,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%ED%98%84%ED%91%9C_%EC%9B%83%EC%9D%8C%EC%B9%98%EB%A3%8C_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4?id=fGMyAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/fGMyAgAAQBAJ?fife=w340-rw",
+     "book_name" : "웃음치료 내 몸을 살린다",
+     "writer" : "김현표",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8A%A4%ED%8B%B0%EB%B8%90_%EC%99%95%EA%B2%90_%EB%B0%80%EA%B0%80%EB%A3%A8%EB%A7%8C_%EB%81%8A%EC%96%B4%EB%8F%84_100%EA%B0%80%EC%A7%80_%EB%B3%91%EC%9D%84_%EB%A7%89%EC%9D%84_%EC%88%98_%EC%9E%88%EB%8B%A4?id=C9FbAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/C9FbAgAAQBAJ?fife=w340-rw",
+     "book_name" : "밀가루만 끊어도 100가지 병을 막을 수 있다",
+     "writer" : "스티븐 왕겐",
+     "book_price" : "₩7,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%A7%84_%EC%84%B8%EC%83%81%EC%9D%98_%EB%AA%A8%EB%93%A0_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=CA-t0ql_at0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/CA-t0ql_at0C?fife=w340-rw",
+     "book_name" : "세상의 모든 다이어트: 한 권으로 보는 핫이슈 다이어트의 모든 것",
+     "writer" : "최진",
+     "book_price" : "₩4,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%8C%80%ED%95%9C%EC%88%98%EB%A9%B4%EC%97%B0%EA%B5%AC%ED%9A%8C_%EC%88%98%EB%A9%B4%ED%98%81%EB%AA%85?id=VDw-AgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/VDw-AgAAQBAJ?fife=w340-rw",
+     "book_name" : "수면혁명",
+     "writer" : "대한수면연구회",
+     "book_price" : "₩5,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EA%B2%B0_%EA%B1%B4%EA%B0%95%EB%A7%8C%ED%99%94_%EA%B3%A0%ED%98%88%EC%95%95_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%9E%A1%EC%9D%84%EA%B9%8C%EC%9A%94?id=DivwCLiyzHgC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DivwCLiyzHgC?fife=w340-rw",
+     "book_name" : "건강만화-고혈압 어떻게 잡을까요?",
+     "writer" : "정결",
+     "book_price" : "₩500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%80%EC%B0%A1_%EA%B7%B8%EB%85%80%EA%B0%80_%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94_%EC%8A%A4%ED%8E%98%EC%85%9C%EC%BC%80%EC%96%B4_Part_2?id=oXhhAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/oXhhAwAAQBAJ?fife=w340-rw",
+     "book_name" : "그녀가 추천하는 스페셜케어 Part 2",
+     "writer" : "은찡",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%84%B1%EC%88%98_%EC%95%94%EC%9D%84_%EA%B3%A0%EC%B9%98%EB%8A%94_%ED%95%9C%EB%B0%A9?id=Jm7zAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Jm7zAwAAQBAJ?fife=w340-rw",
+     "book_name" : "암을 고치는 한방",
+     "writer" : "김성수",
+     "book_price" : "₩7,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%AC%EC%8A%A4%EC%A1%B0%EC%84%A0_%ED%8E%B8%EC%A7%91%ED%8C%80_%ED%95%9C%EA%B5%AD_5%EB%8C%80%EC%95%94_%EC%98%88%EB%B0%A9%EC%97%90%EC%84%9C_%EC%99%84%EC%B9%98%EA%B9%8C%EC%A7%80?id=rWpd73x-9tcC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rWpd73x-9tcC?fife=w340-rw",
+     "book_name" : "한국 5대암 예방에서 완치까지",
+     "writer" : "헬스조선 편집팀",
+     "book_price" : "₩2,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%98%81%ED%91%9C%EB%B3%B4%EB%94%94%EB%B9%8C%EB%94%A9%EC%97%B0%EA%B5%AC%EC%86%8C_MUSCLE_FITNESS_2012%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=5rqtAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5rqtAwAAQBAJ?fife=w340-rw",
+     "book_name" : "MUSCLE &amp; FITNESS 2012년 7월호 (월간)",
+     "writer" : "홍영표보디빌딩연구소",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%A0%95%EC%9D%B4%EC%97%A0%EC%95%84%EC%9D%B4_%ED%8E%B8%EC%A7%91%EB%B6%80_KBS_%EA%B1%B4%EA%B0%95365_2012%EB%85%84_9%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=7g2sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/7g2sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "KBS 건강365 2012년 9월호 (월간)",
+     "writer" : "이정이엠아이 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%9D%80%EB%AF%B8_%EA%B8%B0%EC%B2%B4%EC%A1%B0%EB%A1%9C_%EB%82%A0%EC%94%AC%ED%95%98%EA%B3%A0_%EC%98%88%EB%BB%90%EC%A7%80%EB%8A%94_%ED%95%9C%EB%B0%A9_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=MO43ukBoANYC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/MO43ukBoANYC?fife=w340-rw",
+     "book_name" : "기체조로 날씬하고 예뻐지는 한방 다이어트",
+     "writer" : "이은미",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EB%AF%BC_%ED%95%9C%EB%B0%A9_%ED%94%BC%EB%B6%80%EA%B3%BC_%EC%A0%84%EB%AC%B8%EC%9D%98%EA%B0%80_%EC%A0%9C%EC%95%88%ED%95%98%EB%8A%94_%EC%97%AC%EB%93%9C%EB%A6%84_%ED%9D%89%ED%84%B0_%EC%B9%98%EB%A3%8C_%EB%8F%99%EC%95%88%EB%90%98%EA%B8%B0?id=IkdCAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/IkdCAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한방 피부과 전문의가 제안하는 여드름 흉터 치료 동안되기",
+     "writer" : "홍성민",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%98%81%ED%91%9C%EB%B3%B4%EB%94%94%EB%B9%8C%EB%94%A9%EC%97%B0%EA%B5%AC%EC%86%8C_MUSCLE_FITNESS_2014%EB%85%84_1%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=RKCqAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RKCqAwAAQBAJ?fife=w340-rw",
+     "book_name" : "MUSCLE &amp; FITNESS 2014년 1월호 (월간)",
+     "writer" : "홍영표보디빌딩연구소",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%82%98%EB%88%94%EC%9C%A1%EC%95%84_%ED%8E%B8%EC%A7%91%EB%B6%80_%ED%95%A8%EA%BB%98_%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94_%EB%82%98%EB%88%94_%EC%9C%A1%EC%95%84%EB%B2%95?id=ECWxAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ECWxAgAAQBAJ?fife=w340-rw",
+     "book_name" : "함께 만들어가는 나눔 육아법",
+     "writer" : "나눔육아 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%82%98%EB%82%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%ED%95%B4%EC%B9%98%EB%8A%94_%EC%9C%84%ED%97%98%ED%95%9C_%EC%84%B8%EC%A0%9C?id=kTtrAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kTtrAAAAQBAJ?fife=w340-rw",
+     "book_name" : "내 아이를 해치는 위험한 세제",
+     "writer" : "김나나",
+     "book_price" : "₩5,640"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9A%B0%EB%B3%91%ED%98%B8_20%EB%85%84_%EC%A0%8A%EC%96%B4%EC%A7%80%EB%8A%94_%EB%B9%84%EB%B2%95_2?id=RGkyAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RGkyAgAAQBAJ?fife=w340-rw",
+     "book_name" : "20년 젊어지는 비법 2",
+     "writer" : "우병호",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%ED%98%95%EC%B2%A0_%ED%95%9C%EA%B5%AD%EC%9D%84_%EB%B9%9B%EB%82%B8_%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EC%98%81%EC%9B%85%EB%93%A4?id=Z76sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Z76sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한국을 빛낸 스포츠 영웅들",
+     "writer" : "최형철",
+     "book_price" : "₩15,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%ED%83%9C%ED%98%B8_%ED%96%89%EB%B3%B5%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC_365?id=v8d1AgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/v8d1AgAAQBAJ?fife=w340-rw",
+     "book_name" : "행복건강관리 365",
+     "writer" : "김태호",
+     "book_price" : "₩4,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%86%8C%ED%98%95_%EA%BF%80%ED%94%BC%EB%B6%80_%EC%8B%9C%ED%81%AC%EB%A6%BF?id=0zvDQWZdfzUC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/0zvDQWZdfzUC?fife=w340-rw",
+     "book_name" : "꿀피부 시크릿",
+     "writer" : "김소형",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%97%AC%EC%84%B1%EC%A1%B0%EC%84%A0_%EB%A9%94%EB%94%94%ED%91%B8%EB%93%9C_%EB%8B%B9%EB%87%A8_%EC%9D%B4%EA%B8%B0%EB%8A%94_%EB%AA%A8%EB%B2%94_%EC%9D%8C%EC%8B%9D?id=Xv6IL-iftrYC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Xv6IL-iftrYC?fife=w340-rw",
+     "book_name" : "메디푸드 - 당뇨 이기는 모범 음식",
+     "writer" : "여성조선",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%95%88%EA%B1%B4%EC%98%81_%EC%8A%A4%ED%82%A8_%EB%A9%98%ED%86%A0%EB%A7%81?id=HoeqAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/HoeqAwAAQBAJ?fife=w340-rw",
+     "book_name" : "스킨 멘토링",
+     "writer" : "안건영",
+     "book_price" : "₩7,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A1%B0%EA%B2%BD%EA%B5%AD_%EA%B0%84%ED%97%90%EC%A0%81_%EB%8B%A8%EC%8B%9D_%EB%AA%B8%EC%B0%AC%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%B2%98%EB%9F%BC?id=bW9VAQAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/bW9VAQAAQBAJ?fife=w340-rw",
+     "book_name" : "간헐적 단식, 몸찬패스트처럼",
+     "writer" : "조경국",
+     "book_price" : "₩9,660"
+}
+    ],
+
+	"list_2" :
+	[
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%9B%88_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8_%EB%A7%88%EC%8A%A4%ED%84%B0?id=dgQ-BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/dgQ-BAAAQBAJ?fife=w340-rw",
+     "book_name" : "다이어트 마스터",
+     "writer" : "김지훈",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%8F%99%EA%B8%B0_%EA%B3%A8%ED%94%84%EC%9D%98_%EA%B8%B0%EB%B3%B8%EA%B3%BC_%EC%97%B0%EC%8A%B5%EB%B0%A9%EB%B2%95?id=DXfqAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DXfqAAAAQBAJ?fife=w340-rw",
+     "book_name" : "골프의 기본과 연습방법",
+     "writer" : "김동기",
+     "book_price" : "₩11,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%A9%EC%A7%80%EB%AA%A8%EC%9B%90%EC%9E%A5_%ED%95%9C%EC%9D%98%EC%82%AC%EA%B0%80_%EC%8B%A4%EC%B2%9C%ED%95%98%EB%8A%94_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%A7%80%ED%82%A4%EB%8A%94_%EB%A9%B4%EC%97%AD%EB%A0%A5%EA%B3%BC_%EB%82%B4%EA%B8%B0_%E5%85%A7%E6%B0%A3?id=HjrzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/HjrzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한의사가 실천하는 내 몸을 지키는 면역력과 내기(內氣)",
+     "writer" : "황지모원장",
+     "book_price" : "₩2,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EC%9E%AC%EC%9A%B0_%EC%88%98%EC%88%A0%ED%95%98%EC%A7%80_%EC%95%8A%EA%B3%A0_%ED%97%88%EB%A6%AC%EB%B3%91_%ED%97%88%EB%A6%AC%EB%94%94%EC%8A%A4%ED%81%AC_%EC%B9%98%EB%A3%8C%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95?id=FUCsAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/FUCsAwAAQBAJ?fife=w340-rw",
+     "book_name" : "수술하지 않고 허리병, 허리디스크 치료하는 방법",
+     "writer" : "정재우",
+     "book_price" : "₩10,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_2014%EB%85%84_8%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=Er8tBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Er8tBAAAQBAJ?fife=w340-rw",
+     "book_name" : "웰빙라이프 2014년 8월호 (월간)",
+     "writer" : "웰빙라이프 편집팀",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EB%AF%BC_%EC%9A%B0%EB%A6%AC%EA%B0%80_%EC%95%8C%EC%95%84%EC%95%BC_%ED%95%A0_%ED%8A%BC%EC%82%B4_96%EA%B0%80%EC%A7%80?id=7vpCAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/7vpCAwAAQBAJ?fife=w340-rw",
+     "book_name" : "우리가 알아야 할 튼살 96가지",
+     "writer" : "홍성민",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%ED%9D%AC%EA%B2%BD_%EC%8B%9D%EC%84%A0%EC%83%9D?id=t9AUBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/t9AUBAAAQBAJ?fife=w340-rw",
+     "book_name" : "식선생",
+     "writer" : "정희경",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%B3%91%ED%9B%88_%EC%9E%90%EC%A0%84%EA%B1%B0%EC%9D%98_%EA%B1%B0%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=rP58AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rP58AwAAQBAJ?fife=w340-rw",
+     "book_name" : "자전거의 거의 모든 것",
+     "writer" : "김병훈",
+     "book_price" : "₩11,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%A9%EC%84%B1%ED%98%9C_%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90_%EB%94%94%ED%86%A1%EC%8A%A4?id=QqoIBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QqoIBAAAQBAJ?fife=w340-rw",
+     "book_name" : "동의보감 디톡스",
+     "writer" : "방성혜",
+     "book_price" : "₩12,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%94%94%ED%8C%A9_%EC%B4%88%ED%94%84%EB%9D%BC_%EB%A7%88%EC%9D%8C%EC%9D%98_%EA%B8%B0%EC%A0%81?id=XzfzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/XzfzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "마음의 기적",
+     "writer" : "디팩 초프라",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EB%AC%B8%ED%99%94_%EC%84%B8%ED%8A%B8_%EC%84%B1%EC%9D%B8%EB%B3%91_%EC%98%88%EB%B0%A9%EA%B3%BC_%EC%8B%9D%EC%83%9D%ED%99%9C_%EA%B1%B4%EA%B0%95%EB%B2%95?id=r4oOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/r4oOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 성인병 예방과 식생활 건강법",
+     "writer" : "홍문화",
+     "book_price" : "₩9,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B6%8C%EC%A7%84%EC%98%81_%ED%95%9C_%EA%B6%8C%EC%9C%BC%EB%A1%9C_%EB%81%9D%EB%82%B4%EB%8A%94_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=GRUAAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/GRUAAAAAQBAJ?fife=w340-rw",
+     "book_name" : "한 권으로 끝내는 다이어트의 모든 것",
+     "writer" : "권진영",
+     "book_price" : "₩10,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%E7%94%B3%E9%89%89%E5%AE%97_%EC%86%90%EB%A7%8C_%EC%A5%90%EB%A9%B4_%EC%A0%80%EC%A0%88%EB%A1%9C_%EB%90%98%EB%8A%94_%EB%8B%A8%EC%A0%84%ED%98%B8%ED%9D%A1?id=38pAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/38pAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "손만 쥐면 저절로 되는 단전호흡",
+     "writer" : "申鉉宗",
+     "book_price" : "₩3,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9C%A0%ED%99%8D%EC%A2%85_%ED%85%8C%EB%9D%BC%ED%94%BC_Freestyle_%ED%83%80%EC%9D%B4%EB%A7%88%EC%82%AC%EC%A7%80?id=fQOtAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/fQOtAwAAQBAJ?fife=w340-rw",
+     "book_name" : "테라피 Freestyle 타이마사지",
+     "writer" : "유홍종",
+     "book_price" : "₩7,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A1%B0%EA%B8%B0%EC%9A%A9_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4_3_%EC%95%94_%EC%A7%88%EB%B3%91_%ED%8E%B8?id=84gOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/84gOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸을 살린다 3 [암.질병 편]",
+     "writer" : "조기용",
+     "book_price" : "₩23,300"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/KBS_%EC%83%9D%EB%A1%9C%EB%B3%91%EC%82%AC%EC%9D%98_%EB%B9%84%EB%B0%80_%EC%A0%9C%EC%9E%91%ED%8C%80_%EC%84%B8%ED%8A%B8_KBS_%EC%83%9D%EB%A1%9C%EB%B3%91%EC%82%AC%EC%9D%98_%EB%B9%84%EB%B0%80_%EC%A0%9C%EC%9E%91%ED%8C%80%EC%9D%B4_%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94_%EA%B1%B4%EA%B0%95_%EC%97%90%EC%84%B8%EC%9D%B4?id=oIUOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/oIUOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] <KBS 생로병사의 비밀> 제작팀이 알려주는 건강 에세이",
+     "writer" : "KBS <생로병사의 비밀> 제작팀",
+     "book_price" : "₩15,120"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8A%A4%ED%8B%B0%EB%B8%90_%EC%99%95%EA%B2%90_%EB%B0%80%EA%B0%80%EB%A3%A8%EB%A7%8C_%EB%81%8A%EC%96%B4%EB%8F%84_100%EA%B0%80%EC%A7%80_%EB%B3%91%EC%9D%84_%EB%A7%89%EC%9D%84_%EC%88%98_%EC%9E%88%EB%8B%A4?id=C9FbAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/C9FbAgAAQBAJ?fife=w340-rw",
+     "book_name" : "밀가루만 끊어도 100가지 병을 막을 수 있다",
+     "writer" : "스티븐 왕겐",
+     "book_price" : "₩7,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9A%B0%ED%8E%98_%EB%9D%BC%EB%B8%90%EC%8A%A4%EC%BD%94%ED%94%84_%EC%84%B8%ED%8A%B8_%EA%B1%B4%EA%B0%95%EC%9D%98%EC%95%BD%ED%92%88_%EB%B0%94%EB%A1%9C_%EC%95%8C%EA%B3%A0_%EB%B3%B5%EC%9A%A9%ED%95%98%EC%9E%90?id=QIoOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QIoOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 건강의약품 바로 알고 복용하자!",
+     "writer" : "우페 라븐스코프",
+     "book_price" : "₩12,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B3%B5%EC%A7%84%EA%B7%9C_%ED%95%98%EB%A3%A8_40%EB%B6%84%EC%9C%BC%EB%A1%9C_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%99%80_%EB%B6%88%EB%A9%B4%EC%A6%9D_%EB%B3%80%EB%B9%84_%EC%95%84%EC%B9%A8%EA%B1%B0%EB%A5%B4%EA%B8%B0_%EB%B2%97%EC%96%B4%EB%82%98%EA%B8%B0_11%EB%AC%B8_11%EB%8B%B5?id=_8hAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/_8hAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "하루 40분으로 다이어트와 불면증 변비 아침거르기 벗어나기 11문 11답",
+     "writer" : "공진규",
+     "book_price" : "₩800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%A7%84_%EC%84%B8%EC%83%81%EC%9D%98_%EB%AA%A8%EB%93%A0_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=CA-t0ql_at0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/CA-t0ql_at0C?fife=w340-rw",
+     "book_name" : "세상의 모든 다이어트: 한 권으로 보는 핫이슈 다이어트의 모든 것",
+     "writer" : "최진",
+     "book_price" : "₩4,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%B1%EA%B2%BD%EC%9B%90_%EA%B5%BF_%EC%84%B9%EC%8A%A4_%EA%B0%80%EC%9D%B4%EB%93%9C_PART1_%EA%B7%B8_%EB%82%A8%EC%9E%90%EC%9D%98_%EC%86%8D%EC%82%AC%EC%A0%95?id=5vmaAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5vmaAgAAQBAJ?fife=w340-rw",
+     "book_name" : "굿 섹스 가이드 PART1 그 남자의 속사정",
+     "writer" : "성경원",
+     "book_price" : "₩1,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%8C%80%ED%95%9C%EC%88%98%EB%A9%B4%EC%97%B0%EA%B5%AC%ED%9A%8C_%EC%88%98%EB%A9%B4%ED%98%81%EB%AA%85?id=VDw-AgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/VDw-AgAAQBAJ?fife=w340-rw",
+     "book_name" : "수면혁명",
+     "writer" : "대한수면연구회",
+     "book_price" : "₩5,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EA%B2%B0_%EA%B1%B4%EA%B0%95%EB%A7%8C%ED%99%94_%EA%B3%A0%ED%98%88%EC%95%95_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%9E%A1%EC%9D%84%EA%B9%8C%EC%9A%94?id=DivwCLiyzHgC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DivwCLiyzHgC?fife=w340-rw",
+     "book_name" : "건강만화-고혈압 어떻게 잡을까요?",
+     "writer" : "정결",
+     "book_price" : "₩500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%80%EC%B0%A1_%EA%B7%B8%EB%85%80%EA%B0%80_%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94_%EC%8A%A4%ED%8E%98%EC%85%9C%EC%BC%80%EC%96%B4_Part_2?id=oXhhAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/oXhhAwAAQBAJ?fife=w340-rw",
+     "book_name" : "그녀가 추천하는 스페셜케어 Part 2",
+     "writer" : "은찡",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B2%BD%EA%B3%B5%EC%8A%A4%EB%8B%98_%EB%83%89%EC%98%A8%EC%A1%B0%EC%A0%88%EA%B1%B4%EA%B0%95%EB%B2%95?id=ApxBAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ApxBAwAAQBAJ?fife=w340-rw",
+     "book_name" : "냉온조절건강법",
+     "writer" : "벽공스님",
+     "book_price" : "₩11,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%A4%80%EC%88%99_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4_1_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8_%ED%8E%B8?id=8IcOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/8IcOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸을 살린다 1 [다이어트 편]",
+     "writer" : "이준숙",
+     "book_price" : "₩14,250"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%98%95_%EC%8F%99%EC%8F%99_%ED%86%B5%EA%B3%84_I_2_%EB%8F%99%EC%A7%88%EC%9D%98_2_%EA%B5%B0_%EB%B9%84%EA%B5%90?id=zUysAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/zUysAwAAQBAJ?fife=w340-rw",
+     "book_name" : "쏙쏙 통계 I-2 동질의 2 군 비교",
+     "writer" : "김지형",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%AC%EC%8A%A4%EC%A1%B0%EC%84%A0_%ED%8E%B8%EC%A7%91%ED%8C%80_%ED%95%9C%EA%B5%AD_5%EB%8C%80%EC%95%94_%EC%98%88%EB%B0%A9%EC%97%90%EC%84%9C_%EC%99%84%EC%B9%98%EA%B9%8C%EC%A7%80?id=rWpd73x-9tcC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rWpd73x-9tcC?fife=w340-rw",
+     "book_name" : "한국 5대암 예방에서 완치까지",
+     "writer" : "헬스조선 편집팀",
+     "book_price" : "₩2,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%98%81%ED%91%9C%EB%B3%B4%EB%94%94%EB%B9%8C%EB%94%A9%EC%97%B0%EA%B5%AC%EC%86%8C_MUSCLE_FITNESS_2012%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=5rqtAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5rqtAwAAQBAJ?fife=w340-rw",
+     "book_name" : "MUSCLE &amp; FITNESS 2012년 7월호 (월간)",
+     "writer" : "홍영표보디빌딩연구소",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%A0%95%EC%9D%B4%EC%97%A0%EC%95%84%EC%9D%B4_%ED%8E%B8%EC%A7%91%EB%B6%80_KBS_%EA%B1%B4%EA%B0%95365_2012%EB%85%84_9%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=7g2sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/7g2sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "KBS 건강365 2012년 9월호 (월간)",
+     "writer" : "이정이엠아이 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%9D%80%EB%AF%B8_%EA%B8%B0%EC%B2%B4%EC%A1%B0%EB%A1%9C_%EB%82%A0%EC%94%AC%ED%95%98%EA%B3%A0_%EC%98%88%EB%BB%90%EC%A7%80%EB%8A%94_%ED%95%9C%EB%B0%A9_%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8?id=MO43ukBoANYC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/MO43ukBoANYC?fife=w340-rw",
+     "book_name" : "기체조로 날씬하고 예뻐지는 한방 다이어트",
+     "writer" : "이은미",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B2%AD%EB%82%98%EB%9D%BC_%EC%98%A4%EA%B2%B8_%EC%9D%98%EC%A2%85%EA%B8%88%EA%B0%90_%EC%82%B0%EB%B3%B4%EB%AA%85%EC%9D%98%EB%B0%A9%EB%A1%A0_3?id=wMxAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/wMxAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "의종금감 산보명의방론 3",
+     "writer" : "청나라 오겸",
+     "book_price" : "₩4,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EB%AF%BC_%ED%95%9C%EB%B0%A9_%ED%94%BC%EB%B6%80%EA%B3%BC_%EC%A0%84%EB%AC%B8%EC%9D%98%EA%B0%80_%EC%A0%9C%EC%95%88%ED%95%98%EB%8A%94_%EC%97%AC%EB%93%9C%EB%A6%84_%ED%9D%89%ED%84%B0_%EC%B9%98%EB%A3%8C_%EB%8F%99%EC%95%88%EB%90%98%EA%B8%B0?id=IkdCAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/IkdCAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한방 피부과 전문의가 제안하는 여드름 흉터 치료 동안되기",
+     "writer" : "홍성민",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%98%81%ED%91%9C%EB%B3%B4%EB%94%94%EB%B9%8C%EB%94%A9%EC%97%B0%EA%B5%AC%EC%86%8C_MUSCLE_FITNESS_2014%EB%85%84_1%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=RKCqAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RKCqAwAAQBAJ?fife=w340-rw",
+     "book_name" : "MUSCLE &amp; FITNESS 2014년 1월호 (월간)",
+     "writer" : "홍영표보디빌딩연구소",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%8A%B9%EA%B1%B4_%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%B3%BC_2011_%EB%A1%AF%EB%8D%B0_%EC%9E%90%EC%9D%B4%EC%96%B8%EC%B8%A0?id=G1c1MkX-eIwC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/G1c1MkX-eIwC?fife=w340-rw",
+     "book_name" : "베이스볼 2011 - 롯데 자이언츠",
+     "writer" : "이승건",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%82%98%EB%88%94%EC%9C%A1%EC%95%84_%ED%8E%B8%EC%A7%91%EB%B6%80_%ED%95%A8%EA%BB%98_%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94_%EB%82%98%EB%88%94_%EC%9C%A1%EC%95%84%EB%B2%95?id=ECWxAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ECWxAgAAQBAJ?fife=w340-rw",
+     "book_name" : "함께 만들어가는 나눔 육아법",
+     "writer" : "나눔육아 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%82%98%EB%82%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%ED%95%B4%EC%B9%98%EB%8A%94_%EC%9C%84%ED%97%98%ED%95%9C_%EC%84%B8%EC%A0%9C?id=kTtrAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kTtrAAAAQBAJ?fife=w340-rw",
+     "book_name" : "내 아이를 해치는 위험한 세제",
+     "writer" : "김나나",
+     "book_price" : "₩5,640"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9A%B0%EB%B3%91%ED%98%B8_20%EB%85%84_%EC%A0%8A%EC%96%B4%EC%A7%80%EB%8A%94_%EB%B9%84%EB%B2%95_2?id=RGkyAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RGkyAgAAQBAJ?fife=w340-rw",
+     "book_name" : "20년 젊어지는 비법 2",
+     "writer" : "우병호",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%ED%98%95%EC%B2%A0_%ED%95%9C%EA%B5%AD%EC%9D%84_%EB%B9%9B%EB%82%B8_%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EC%98%81%EC%9B%85%EB%93%A4?id=Z76sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Z76sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "한국을 빛낸 스포츠 영웅들",
+     "writer" : "최형철",
+     "book_price" : "₩15,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%ED%83%9C%ED%98%B8_%ED%96%89%EB%B3%B5%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC_365?id=v8d1AgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/v8d1AgAAQBAJ?fife=w340-rw",
+     "book_name" : "행복건강관리 365",
+     "writer" : "김태호",
+     "book_price" : "₩4,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%98%95_%EC%8F%99%EC%8F%99_%ED%86%B5%EA%B3%84_III_2_%ED%95%9C_%EA%B7%B8%EB%A3%B9_%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C_%EC%97%AC%EB%9F%AC_%EC%9A%94%EC%9D%B8_%EB%B9%84%EA%B5%90?id=-E6sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/-E6sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "쏙쏙 통계 III-2 한 그룹 내부에서 여러 요인 비교",
+     "writer" : "김지형",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%86%8C%ED%98%95_%EA%BF%80%ED%94%BC%EB%B6%80_%EC%8B%9C%ED%81%AC%EB%A6%BF?id=0zvDQWZdfzUC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/0zvDQWZdfzUC?fife=w340-rw",
+     "book_name" : "꿀피부 시크릿",
+     "writer" : "김소형",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%97%AC%EC%84%B1%EC%A1%B0%EC%84%A0_%EB%A9%94%EB%94%94%ED%91%B8%EB%93%9C_%EB%8B%B9%EB%87%A8_%EC%9D%B4%EA%B8%B0%EB%8A%94_%EB%AA%A8%EB%B2%94_%EC%9D%8C%EC%8B%9D?id=Xv6IL-iftrYC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Xv6IL-iftrYC?fife=w340-rw",
+     "book_name" : "메디푸드 - 당뇨 이기는 모범 음식",
+     "writer" : "여성조선",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%95%88%EA%B1%B4%EC%98%81_%EC%8A%A4%ED%82%A8_%EB%A9%98%ED%86%A0%EB%A7%81?id=HoeqAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/HoeqAwAAQBAJ?fife=w340-rw",
+     "book_name" : "스킨 멘토링",
+     "writer" : "안건영",
+     "book_price" : "₩7,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A1%B0%EA%B2%BD%EA%B5%AD_%EA%B0%84%ED%97%90%EC%A0%81_%EB%8B%A8%EC%8B%9D_%EB%AA%B8%EC%B0%AC%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%B2%98%EB%9F%BC?id=bW9VAQAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/bW9VAQAAQBAJ?fife=w340-rw",
+     "book_name" : "간헐적 단식, 몸찬패스트처럼",
+     "writer" : "조경국",
+     "book_price" : "₩9,660"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%9C%A4%EC%84%A0_%EC%84%B8%ED%8A%B8_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4_4_%EB%85%B8%ED%99%94%EB%B0%A9%EC%A7%80_%ED%8E%B8?id=GIkOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/GIkOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 내 몸을 살린다 4 [노화방지 편]",
+     "writer" : "김윤선",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%98%95_%EC%8F%99%EC%8F%99_%ED%86%B5%EA%B3%84_I_4_%EB%B9%84%EC%97%B4%EB%93%B1%EC%84%B1_%EA%B2%80%EC%A0%95?id=oNStAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/oNStAwAAQBAJ?fife=w340-rw",
+     "book_name" : "쏙쏙 통계 I-4 비열등성 검정",
+     "writer" : "김지형",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B8%80%EB%82%98%EB%88%94_%ED%8E%B8%EC%A7%91%EB%B6%80_%EB%AA%B8%EC%9D%B4_%EB%82%B4%EA%B2%8C_%EC%9A%95%ED%95%9C%EB%8B%A4?id=FUWLEdggsswC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/FUWLEdggsswC?fife=w340-rw",
+     "book_name" : "몸이 내게 욕한다",
+     "writer" : "글나눔 편집부",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%B1%EA%B2%BD%EC%9B%90_%EA%B5%BF_%EC%84%B9%EC%8A%A4_%EA%B0%80%EC%9D%B4%EB%93%9C_PART5_%EC%A6%90%EA%B1%B0%EC%9A%B4_%EC%84%B9%EC%8A%A4%EB%A5%BC_%EC%9C%84%ED%95%98%EC%97%AC?id=ffuaAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ffuaAgAAQBAJ?fife=w340-rw",
+     "book_name" : "굿 섹스 가이드 PART5 즐거운 섹스를 위하여",
+     "writer" : "성경원",
+     "book_price" : "₩1,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%84%EC%82%AC%ED%83%81_%EC%99%B8%EA%B3%BC%EB%B9%84%EB%A1%9D_%ED%86%B5%EC%B2%9C%EC%98%A4%EC%A7%80_9_12%EA%B6%8C?id=kdVAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kdVAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "외과비록 통천오지 9-12권",
+     "writer" : "진사탁",
+     "book_price" : "₩4,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%95%B4%EB%8D%94_%ED%8B%B1_%ED%86%B5%EC%A6%9D%EC%97%90_%EB%8C%80%ED%95%9C_%EA%B1%B0%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83?id=Gs0UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Gs0UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "통증에 대한 거의 모든 것",
+     "writer" : "해더 틱",
+     "book_price" : "₩10,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/Ghostwhisper_%EC%9D%B4%ED%98%BC%EC%9D%84_%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94_%EC%82%AC%EB%9E%8C%EB%93%A4%EC%97%90%EA%B2%8C_%ED%95%B4%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EC%9D%80_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=KGbTrFgrZugC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/KGbTrFgrZugC?fife=w340-rw",
+     "book_name" : "이혼을 준비하는 사람들에게 해주고 싶은 이야기",
+     "writer" : "Ghostwhisper",
+     "book_price" : "₩900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%9C%A4%EC%84%A0_%EB%A9%B4%EC%97%AD%EB%A0%A5_%EB%82%B4_%EB%AA%B8%EC%9D%84_%EC%82%B4%EB%A6%B0%EB%8B%A4?id=Re4xAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Re4xAgAAQBAJ?fife=w340-rw",
+     "book_name" : "면역력 내 몸을 살린다",
+     "writer" : "김윤선",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EA%B6%8C%EC%A0%9C_%EC%84%B8%ED%8A%B8_%EC%95%8C%EA%B3%A0_%EB%A8%B9%EC%96%B4%EC%95%BC_%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94_%EC%9D%8C%EC%8B%9D%EC%9D%B4%EC%95%BC%EA%B8%B0?id=ZYoOBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ZYoOBAAAQBAJ?fife=w340-rw",
+     "book_name" : "[세트] 알고 먹어야 도움되는 음식이야기",
+     "writer" : "김권제",
+     "book_price" : "₩19,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EA%B3%A4%EC%88%98_%EA%B0%95%EB%82%A8%EC%95%84%EC%9D%B4_%EC%B6%94%EC%9B%94%ED%95%98%EA%B8%B0?id=-fHEAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/-fHEAAAAQBAJ?fife=w340-rw",
+     "book_name" : "강남아이 추월하기",
+     "writer" : "이곤수",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%98%81%ED%91%9C%EB%B3%B4%EB%94%94%EB%B9%8C%EB%94%A9%EC%97%B0%EA%B5%AC%EC%86%8C_MUSCLE_FITNESS_2013%EB%85%84_9%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=AQ6uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/AQ6uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "MUSCLE &amp; FITNESS 2013년 9월호 (월간)",
+     "writer" : "홍영표보디빌딩연구소",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_%ED%8E%B8%EC%A7%91%ED%8C%80_%EC%9B%B0%EB%B9%99%EB%9D%BC%EC%9D%B4%ED%94%84_2013%EB%85%84_12%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=DDqrAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DDqrAwAAQBAJ?fife=w340-rw",
+     "book_name" : "웰빙라이프 2013년 12월호 (월간)",
+     "writer" : "웰빙라이프 편집팀",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%80%EB%B2%95%EC%8A%A4%EB%8B%98_%EB%82%98%EB%85%B8%EC%9E%90%EC%84%9D%EC%9D%98_%EC%B2%99%EC%B6%94%EC%88%98%EC%A7%80_%EC%9D%8C%EC%96%91%EB%B3%B4%EC%82%AC%EB%B2%95?id=u_-sAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/u_-sAwAAQBAJ?fife=w340-rw",
+     "book_name" : "나노자석의 척추수지 음양보사법",
+     "writer" : "지법스님",
+     "book_price" : "₩12,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B3%A8%ED%94%84%EA%B0%80%EC%9D%B4%EB%93%9C_%ED%8E%B8%EC%A7%91%EB%B6%80_%EC%9B%94%EA%B0%84_GOLF_guide_2013%EB%85%84_5%EC%9B%94%ED%98%B8?id=eF6rAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/eF6rAwAAQBAJ?fife=w340-rw",
+     "book_name" : "월간 GOLF guide 2013년 5월호",
+     "writer" : "골프가이드 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B9%B4%ED%86%A0_%EC%9A%94%EC%9D%B4%EC%B9%98_%EC%95%88%EC%8B%AC_%EC%95%94%EC%B9%98%EB%A3%8C?id=9dT-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/9dT-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "안심 암치료",
+     "writer" : "카토 요이치",
+     "book_price" : "₩7,150"
+}
+    ]
+}

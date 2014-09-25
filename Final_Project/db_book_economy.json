@@ -1,0 +1,841 @@
+{	
+	"list_1" :
+	[
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%95%84%EB%A6%AC%EC%B9%B4%EC%99%80_%EB%A7%88%EC%9C%A0%EB%AF%B8_10%EB%85%84_%EC%A0%84%EC%9D%84_%EC%82%AC%EB%8A%94_%EC%97%AC%EC%9E%90_10%EB%85%84_%ED%9B%84%EB%A5%BC_%EC%82%AC%EB%8A%94_%EC%97%AC%EC%9E%90?id=0Zs5BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/0Zs5BAAAQBAJ?fife=w340-rw",
+     "book_name" : "10년 전을 사는 여자, 10년 후를 사는 여자",
+     "writer" : "아리카와 마유미",
+     "book_price" : "₩10,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%80%EC%8A%A4%ED%8B%B4_%ED%81%B4%EB%A1%9C%EC%8A%A4%ED%82%A4_%EA%B1%B0%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83%EC%9D%98_%EC%A0%95%EB%A6%AC%EB%B2%95?id=q8wUBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/q8wUBAAAQBAJ?fife=w340-rw",
+     "book_name" : "거의 모든 것의 정리법",
+     "writer" : "저스틴 클로스키",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%95%84%EB%A6%AC%EC%B9%B4%EC%99%80_%EB%A7%88%EC%9C%A0%EB%AF%B8_%EC%84%9C%EB%A5%B8%EC%97%90%EC%84%9C_%EB%A9%88%EC%B6%94%EB%8A%94_%EC%97%AC%EC%9E%90_%EC%84%9C%EB%A5%B8%EB%B6%80%ED%84%B0_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_%EC%97%AC%EC%9E%90?id=X5o5BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/X5o5BAAAQBAJ?fife=w340-rw",
+     "book_name" : "서른에서 멈추는 여자, 서른부터 성장하는 여자",
+     "writer" : "아리카와 마유미",
+     "book_price" : "₩9,100"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A1%B0%ED%9D%AC%EC%A0%84_%EB%B2%BD%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EB%8A%94_%EC%9C%84%EB%8C%80%ED%95%9C_%EC%A0%95%EC%8B%A0%EB%93%A4?id=uJrhAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/uJrhAwAAQBAJ?fife=w340-rw",
+     "book_name" : "벽을 뛰어넘는 위대한 정신들",
+     "writer" : "조희전",
+     "book_price" : "₩5,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EC%98%81%EC%A3%BC_%EC%84%9C%EB%B9%84%EC%8A%A4_%EB%A6%AC%EB%8D%94%EC%8B%AD?id=1JfhAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/1JfhAwAAQBAJ?fife=w340-rw",
+     "book_name" : "서비스 리더십: 고객의 마음을 사로잡는",
+     "writer" : "정영주",
+     "book_price" : "₩8,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%84%EC%9E%AC%EC%84%B1_%EC%B0%BD%EC%9D%98%EB%A0%A5%EC%9D%98_%EC%9E%AC%EB%B0%9C%EA%B2%AC?id=rrQ9BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/rrQ9BAAAQBAJ?fife=w340-rw",
+     "book_name" : "창의력의 재발견",
+     "writer" : "임재성",
+     "book_price" : "₩6,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%A4%80%EC%B2%A0_%EA%B9%80%EB%AF%BC%EA%B5%AD_%EC%9B%8C%EB%A0%8C%EB%B2%84%ED%95%8F%EC%B2%98%EB%9F%BC_%EA%B0%80%EC%B9%98%ED%88%AC%EC%9E%90%ED%95%98%EA%B8%B0?id=5ZomBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5ZomBAAAQBAJ?fife=w340-rw",
+     "book_name" : "워렌버핏처럼 가치투자하기: 가치투자 첫걸음",
+     "writer" : "최준철, 김민국",
+     "book_price" : "₩7,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%A7%80%EC%98%81_%EB%B2%8C_%EB%95%90_%EB%B2%8C%EA%B3%A0_%EC%93%B8_%EB%95%90_%EC%93%B0%EB%8A%94_%EC%97%AC%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%8F%88_%EB%B2%84%EB%8A%94_%EC%84%A0%ED%83%9D?id=2Oo-BAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/2Oo-BAAAQBAJ?fife=w340-rw",
+     "book_name" : "벌 땐 벌고 쓸 땐 쓰는 여자를 위한 돈 버는 선택",
+     "writer" : "이지영",
+     "book_price" : "₩9,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8B%B0%EC%95%88_%EC%95%88%EC%BD%94%EB%B9%84%EC%B9%98_%EC%96%B4%EB%96%BB%EA%B2%8C_%EB%B0%98%EC%A0%84%EC%9D%84_%EC%9D%B4%EB%81%8C%EC%96%B4_%EB%82%BC_%EA%B2%83%EC%9D%B8%EA%B0%80?id=9MscBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/9MscBAAAQBAJ?fife=w340-rw",
+     "book_name" : "어떻게 반전을 이끌어 낼 것인가",
+     "writer" : "크리스티안 안코비치",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%B2%A0%EC%9B%85_%EB%AF%B8%EC%B3%90%EC%95%BC_%EC%82%B0%EB%8B%A4?id=yVQaBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/yVQaBAAAQBAJ?fife=w340-rw",
+     "book_name" : "미쳐야 산다: 지금 그 자리에서 성공하라 (개정판)",
+     "writer" : "김철웅",
+     "book_price" : "₩7,420"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%ED%9B%84%EA%B2%BD_%EC%84%A0%ED%83%9D%EC%9D%98_%ED%95%A8%EC%A0%95_The_Trap_of_Choice?id=KVYcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/KVYcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "선택의 함정(The Trap of Choice): 후박사의 마음건강 강연 시리즈 05 : 선택",
+     "writer" : "이후경",
+     "book_price" : "₩7,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%ED%9B%84%EA%B2%BD_%EB%B3%80%ED%99%94%EC%9D%98_%EC%8B%A0_The_God_of_Change?id=cFUcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/cFUcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "변화의 신(The God of Change): 후박사의 마음건강 강연 시리즈 04 : 변화",
+     "writer" : "이후경",
+     "book_price" : "₩7,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%A4%91%ED%91%9C_%EC%95%88_%EB%90%98%EB%8A%94_%EA%B1%B8_%EB%90%98%EA%B2%8C_%ED%95%B4%EB%B4%90?id=t1QcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/t1QcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "안 되는 걸 되게 해봐!",
+     "writer" : "홍중표",
+     "book_price" : "₩7,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%ED%9B%84%EA%B2%BD_%EC%99%80%EC%9D%B4_%EC%95%B0_%EC%95%84%EC%9D%B4_Why_Am_I?id=JlUcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/JlUcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "와이 앰 아이?(Why Am I?): 후박사의 마음건강 강연 시리즈 01 : 이해",
+     "writer" : "이후경",
+     "book_price" : "₩7,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%ED%9B%84%EA%B2%BD_%EA%B4%80%EA%B3%84_%EB%B0%A9%EC%A0%95%EC%8B%9D_The_Equation_of_Relationship?id=S1UcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/S1UcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "관계 방정식(The Equation of Relationship): 후박사의 마음건강 강연 시리즈 03 : 관계",
+     "writer" : "이후경",
+     "book_price" : "₩7,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%ED%9B%84%EA%B2%BD_%ED%9E%90%EB%A7%81_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4_Healing_stress?id=lVUcBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/lVUcBAAAQBAJ?fife=w340-rw",
+     "book_name" : "힐링 스트레스(Healing stress): 후박사의 마음건강 강연 시리즈 02 : 스트레스",
+     "writer" : "이후경",
+     "book_price" : "₩7,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%A5%ED%95%98%EC%A4%80_%EB%8B%A4%EC%8B%9C_%EB%B0%9C%EC%A0%84%EC%9D%84_%EC%9A%94%EA%B5%AC%ED%95%9C%EB%8B%A4_%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98_%EA%B2%BD%EC%A0%9C_%EC%A0%95%EC%B1%85_%EB%A7%A4%EB%89%B4%EC%96%BC?id=TC4TBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/TC4TBAAAQBAJ?fife=w340-rw",
+     "book_name" : "다시 발전을 요구한다 : 장하준의 경제 정책 매뉴얼",
+     "writer" : "장하준",
+     "book_price" : "₩9,100"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/ITWorld_%ED%8E%B8%EC%A7%91%EB%B6%80_%EA%B8%80%EC%97%90%EC%84%9C_%EA%B0%90%EC%A0%95%EC%9D%84_%EC%9D%BD%EB%8B%A4_%EA%B0%90%EC%84%B1_%EB%B6%84%EC%84%9D%EC%9D%98_%EC%9D%B4%ED%95%B4?id=wuAUBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/wuAUBAAAQBAJ?fife=w340-rw",
+     "book_name" : "글에서 감정을 읽다! 감성 분석의 이해",
+     "writer" : "ITWorld 편집부",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8B%A0%EC%9D%80%ED%9D%AC_%EA%B0%90%EC%84%B1%EC%86%8C%ED%86%B5?id=4m0LBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/4m0LBAAAQBAJ?fife=w340-rw",
+     "book_name" : "감성소통: 사람의 마음을 사로잡는",
+     "writer" : "신은희",
+     "book_price" : "₩7,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%B2%98%EB%93%9C_%EB%A7%88%EC%9A%B4_%EB%82%B4_%EC%83%81%EC%82%AC_%EC%82%AC%EC%9A%A9%EB%B2%95?id=97UIBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/97UIBAAAQBAJ?fife=w340-rw",
+     "book_name" : "내 상사 사용법: 상사의 마음을 읽으면 출근이 즐겁다",
+     "writer" : "리처드 마운",
+     "book_price" : "₩7,860"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%EC%84%AD_%EC%95%84%ED%8C%8C%ED%8A%B8_%EA%B4%80%EB%A6%AC%EB%B9%84%EC%9D%98_%EB%B9%84%EB%B0%80?id=THsUBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/THsUBAAAQBAJ?fife=w340-rw",
+     "book_name" : "아파트 관리비의 비밀",
+     "writer" : "김지섭",
+     "book_price" : "₩10,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A3%BC%EA%B0%84%EC%95%84%EC%8B%9C%EC%95%84%EA%B2%BD%EC%A0%9C_%ED%8E%B8%EC%A7%91%EB%B6%80_Economic_Review_721%ED%98%B8_%EC%A3%BC%EA%B0%84?id=E40UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/E40UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "Economic Review 721호 (주간)",
+     "writer" : "주간아시아경제 편집부",
+     "book_price" : "₩1,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A8%B8%EB%8B%88%EC%9C%84%ED%81%AC_%ED%8E%B8%EC%A7%91%EB%B6%80_Money_Week_339%ED%98%B8_%EC%A3%BC%EA%B0%84?id=qo4UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/qo4UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "Money Week 339호 (주간)",
+     "writer" : "머니위크 편집부",
+     "book_price" : "₩1,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%ED%98%84%EC%9A%B0_%EB%8B%B9%EC%8B%A0%EB%8F%84_%EB%A9%98%ED%83%88%EB%A6%AC%EC%8A%A4%ED%8A%B8%EA%B0%80_%EB%90%A0_%EC%88%98_%EC%9E%88%EB%8B%A4?id=eVMKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/eVMKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "당신도 멘탈리스트가 될 수 있다: Yes를 이끌어 내는 소통의 비밀",
+     "writer" : "최현우",
+     "book_price" : "₩9,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%A0%ED%98%84%EC%9A%B0_%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A5%BC_%ED%8C%9D%EB%8B%88%EB%8B%A4_%EC%84%B8%EA%B3%84%EB%A5%BC_%EB%AC%B4%EB%8C%80%EB%A1%9C_%EC%95%88%EB%B0%A9%EC%97%90%EC%84%9C_%EC%B0%BD%EC%97%85%ED%95%9C_%EC%84%A0%ED%98%84%EC%9A%B0_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=w3caBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/w3caBAAAQBAJ?fife=w340-rw",
+     "book_name" : "한국어를 팝니다: 세계를 무대로 안방에서 창업한 선현우 이야기",
+     "writer" : "선현우",
+     "book_price" : "₩7,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%ED%98%84_%EC%B1%84%EA%B6%8C%EA%B4%80%EB%A6%AC%EB%85%B8%ED%8A%B8?id=EsUKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/EsUKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "채권관리노트",
+     "writer" : "최현",
+     "book_price" : "₩5,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AF%B8%ED%95%98%EC%9D%B4_%EC%B9%99%EC%84%BC%ED%8A%B8%EB%AF%B8%ED%95%98%EC%9D%B4_%ED%95%84%EB%A6%BD_%EC%BD%94%ED%8B%80%EB%9F%AC_%EA%B6%8C%ED%84%B0_%EC%8A%88%EB%AF%B8%ED%8A%B8_%EC%B5%9C%EA%B3%A0%EC%9D%98_%EC%84%9D%ED%95%99%EB%93%A4%EC%9D%80_%EC%96%B4%EB%96%A4_%EC%A7%88%EB%AC%B8%EC%9D%84_%ED%95%A0%EA%B9%8C?id=4uYCBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/4uYCBAAAQBAJ?fife=w340-rw",
+     "book_name" : "최고의 석학들은 어떤 질문을 할까",
+     "writer" : "미하이 칙센트미하이, 필립 코틀러, 권터 슈미트 ",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%B0%A8%EB%93%9C_%EC%85%B0%EB%A6%AC%EB%8B%A8_%EB%82%98%EB%8A%94_%EC%A6%90%EA%B1%B0%EC%9B%80_%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%97%90_%EB%8B%A4%EB%8B%8C%EB%8B%A4?id=R5r-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/R5r-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "나는 즐거움 주식회사에 다닌다",
+     "writer" : "리차드 셰리단",
+     "book_price" : "₩10,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A8%B8%EB%8B%88%EC%9C%84%ED%81%AC_%ED%8E%B8%EC%A7%91%EB%B6%80_Money_Week_338%ED%98%B8_%EC%A3%BC%EA%B0%84?id=K8EKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/K8EKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "Money Week 338호 (주간)",
+     "writer" : "머니위크 편집부",
+     "book_price" : "₩1,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%8A%B9%EB%85%B8_%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98%EB%8A%94_%EC%99%9C_%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%EA%B0%80?id=DOgKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/DOgKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "사회주의는 왜 실패하는가",
+     "writer" : "최승노",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%A5%EC%B0%BD%ED%9B%88_%EC%A7%AD%EC%A7%A4%ED%95%9C_%EA%B2%BD%EB%A7%A4_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=4Zz-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/4Zz-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "짭짤한 경매 이야기",
+     "writer" : "장창훈",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EA%B2%BD%EC%9D%B5_%EC%8B%A0%EB%A2%B0%EC%9D%98_%EB%A7%88%EB%B2%95?id=aeP-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/aeP-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "신뢰의 마법",
+     "writer" : "김경익",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AA%A8%EB%B0%94%EC%9D%BC%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%B0%EA%B5%AC%EC%86%8C_%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8?id=bnoUBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/bnoUBAAAQBAJ?fife=w340-rw",
+     "book_name" : "모바일 인사이트",
+     "writer" : "모바일마케팅연구소",
+     "book_price" : "₩13,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%84%EC%B2%A0%EC%88%9C_%EC%A7%81%EC%97%85_%EC%84%A0%ED%83%9D_%EA%B0%80%EC%9D%B4%EB%93%9C?id=lJv-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/lJv-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "직업 선택 가이드",
+     "writer" : "임철순",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%84%9C%EC%98%81_%EC%98%88%EC%8A%A4%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EC%84%A4%EB%93%9D%EB%8C%80%ED%99%94%EB%B2%95_52?id=MH4UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/MH4UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "예스를 이끌어내는 설득대화법 52",
+     "writer" : "이서영",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%84%EC%B2%A0%EC%88%9C_%EC%A7%81%EC%97%85_%EC%84%A0%ED%83%9D_%EA%B0%80%EC%9D%B4%EB%93%9C?id=JxLxAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/JxLxAwAAQBAJ?fife=w340-rw",
+     "book_name" : "직업 선택 가이드",
+     "writer" : "임철순",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%82%AC_%EC%95%84%EB%8D%94_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%A7%88%EC%BC%80%ED%8C%85?id=JaDnAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/JaDnAwAAQBAJ?fife=w340-rw",
+     "book_name" : "빅데이터 마케팅",
+     "writer" : "리사 아더",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A3%BC%EA%B0%84%EC%95%84%EC%8B%9C%EC%95%84%EA%B2%BD%EC%A0%9C_%ED%8E%B8%EC%A7%91%EB%B6%80_Economic_Review_719%ED%98%B8_%EC%A3%BC%EA%B0%84?id=b78KBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/b78KBAAAQBAJ?fife=w340-rw",
+     "book_name" : "Economic Review 719호 (주간)",
+     "writer" : "주간아시아경제 편집부",
+     "book_price" : "₩1,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%8D%94%ED%8C%8C%EB%9E%80%ED%95%98%EB%8A%98_%EA%B5%B0%EB%8C%80_%EB%B0%94%EB%A1%9C_%EC%95%8C%EA%B8%B0?id=ObLzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ObLzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "군대 바로 알기",
+     "writer" : "더파란하늘",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%99%B8%EC%8B%9D%EA%B2%BD%EC%98%81_%ED%8E%B8%EC%A7%91%EB%B6%80_%EC%99%B8%EC%8B%9D%EA%B2%BD%EC%98%81_2014%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=8Y0UBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/8Y0UBAAAQBAJ?fife=w340-rw",
+     "book_name" : "외식경영 2014년 7월호 (월간)",
+     "writer" : "외식경영 편집부",
+     "book_price" : "₩4,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/E_JOURNAL_E_JOURNAL_2014%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=46n-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/46n-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "E-JOURNAL 2014년 7월호 (월간)",
+     "writer" : "E-JOURNAL",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%8A%B9%EB%85%B8_%EC%A0%95%EC%9D%98%EB%A1%9C%EC%9A%B4_%EC%B2%B4%EC%A0%9C_%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98?id=Aqj-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Aqj-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "정의로운 체제, 자본주의",
+     "writer" : "최승노",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A8%B8%EB%8B%88%EC%9C%84%ED%81%AC_%ED%8E%B8%EC%A7%91%EB%B6%80_Money_Week_337%ED%98%B8_%EC%A3%BC%EA%B0%84?id=Sr8KBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Sr8KBAAAQBAJ?fife=w340-rw",
+     "book_name" : "Money Week 337호 (주간)",
+     "writer" : "머니위크 편집부",
+     "book_price" : "₩1,750"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%B9%EC%8A%A4%EB%AF%B8%EB%94%94%EC%96%B4_%ED%8E%B8%EC%A7%91%EB%B6%80_IM_2014%EB%85%84_7%EC%9B%94%ED%98%B8_%EC%9B%94%EA%B0%84?id=5OYKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5OYKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "IM 2014년 7월호 (월간)",
+     "writer" : "웹스미디어 편집부",
+     "book_price" : "₩5,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%8A%B9%EB%85%B8_%EC%8B%9C%EC%9E%A5%EA%B2%BD%EC%A0%9C%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?id=caj-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/caj-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "시장경제란 무엇인가",
+     "writer" : "최승노",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EC%A7%84_%EB%B3%91%EC%9B%90%EC%9D%84_%EC%82%B4%EB%A6%AC%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EB%B3%91%EC%9B%90%EC%9D%84_%EC%A3%BD%EC%9D%B4%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85?id=2WzzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/2WzzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "병원을 살리는 마케팅 병원을 죽이는 마케팅",
+     "writer" : "홍성진",
+     "book_price" : "₩10,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%ED%9B%88_%EA%B2%BD%EC%A0%9C%EC%9D%98_%EA%B5%90%EC%96%91%EC%9D%84_%EC%9D%BD%EB%8A%94%EB%8B%A4_%EA%B3%A0%EC%A0%84%ED%8E%B81?id=QL7uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QL7uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "경제의 교양을 읽는다_고전편1",
+     "writer" : "홍훈",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%ED%9B%88_%EA%B2%BD%EC%A0%9C%EC%9D%98_%EA%B5%90%EC%96%91%EC%9D%84_%EC%9D%BD%EB%8A%94%EB%8B%A4_%EA%B3%A0%EC%A0%84%ED%8E%B86?id=Yr3uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Yr3uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "경제의 교양을 읽는다_고전편6",
+     "writer" : "홍훈",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EB%A7%8C%EA%B8%B0_%EC%A4%91%EA%B5%AD_%EC%B2%9C%EC%9E%AC%EA%B0%80_%EB%90%9C_%ED%99%8D%EB%8C%80%EB%A6%AC_2?id=F8DrAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/F8DrAwAAQBAJ?fife=w340-rw",
+     "book_name" : "중국 천재가 된 홍대리 2: 중국인, 중국 문화를 이해하고 존중하는 법",
+     "writer" : "김만기",
+     "book_price" : "₩10,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%ED%9B%88_%EA%B2%BD%EC%A0%9C%EC%9D%98_%EA%B5%90%EC%96%91%EC%9D%84_%EC%9D%BD%EB%8A%94%EB%8B%A4_%EA%B3%A0%EC%A0%84%ED%8E%B83?id=G77uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/G77uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "경제의 교양을 읽는다_고전편3",
+     "writer" : "홍훈",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%ED%9B%88_%EA%B2%BD%EC%A0%9C%EC%9D%98_%EA%B5%90%EC%96%91%EC%9D%84_%EC%9D%BD%EB%8A%94%EB%8B%A4_%EA%B3%A0%EC%A0%84%ED%8E%B82?id=Zb7uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Zb7uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "경제의 교양을 읽는다_고전편2",
+     "writer" : "홍훈",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%96%91%EA%B4%91%EC%98%81_%ED%99%88%EB%9F%B0_%EC%B9%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85?id=KW_zAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/KW_zAwAAQBAJ?fife=w340-rw",
+     "book_name" : "홈런 치는 마케팅",
+     "writer" : "양광영",
+     "book_price" : "₩3,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%ED%9B%88_%EA%B2%BD%EC%A0%9C%EC%9D%98_%EA%B5%90%EC%96%91%EC%9D%84_%EC%9D%BD%EB%8A%94%EB%8B%A4_%EA%B3%A0%EC%A0%84%ED%8E%B85?id=9r3uAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/9r3uAwAAQBAJ?fife=w340-rw",
+     "book_name" : "경제의 교양을 읽는다_고전편5",
+     "writer" : "홍훈",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B5%9C%EC%9D%B4%EB%A6%B0_%EB%B6%80%EC%9E%90_%EB%90%98%EB%8A%94_%ED%92%8D%EC%88%98%ED%85%8C%ED%81%AC?id=t23zAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/t23zAwAAQBAJ?fife=w340-rw",
+     "book_name" : "부자 되는 풍수테크",
+     "writer" : "최이린",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%ED%83%9C%EC%98%A5_1_%EB%A6%AC%EB%8D%94%EB%A7%8C_%EC%95%84%EB%8A%94_%EC%8A%A4%ED%94%BC%EC%B9%98_%ED%8A%B8%EB%9D%BC%EC%9D%B4%EC%95%B5%EA%B8%80_%EB%B2%95%EC%B9%99?id=ncIKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ncIKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "1% 리더만 아는 스피치 트라이앵글 법칙",
+     "writer" : "김태옥",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9C%A0%EC%A2%85%EC%98%A4_%EC%84%B8%EA%B8%88_%EC%9E%AC%ED%85%8C%ED%81%AC_%EC%83%81%EC%8B%9D%EC%82%AC%EC%A0%84_2014?id=mK-yAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/mK-yAwAAQBAJ?fife=w340-rw",
+     "book_name" : "세금 재테크 상식사전(2014): 연말정산부터 부동산세, 종합소득세, 상속? 증여세까지 세무사 도움 없이 환급 &amp; 절세 OK!",
+     "writer" : "유종오 ",
+     "book_price" : "₩12,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AC%B8%EC%86%8C%EC%98%81_%EA%B7%B8%EB%A6%BC_%EC%86%8D_%EA%B2%BD%EC%A0%9C%ED%95%99?id=v-YKBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/v-YKBAAAQBAJ?fife=w340-rw",
+     "book_name" : "그림 속 경제학",
+     "writer" : "문소영",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%84%EC%9B%A8%EC%A4%80_%EC%82%AC%EB%9E%8C%EA%B3%B5%EB%B6%80?id=kh7lAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kh7lAwAAQBAJ?fife=w340-rw",
+     "book_name" : "사람공부",
+     "writer" : "진웨준",
+     "book_price" : "₩11,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%97%88%EC%9A%B1_%ED%99%98%EC%9C%A8_%EC%83%81%EC%8B%9D%EC%82%AC%EC%A0%84?id=68QCBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/68QCBAAAQBAJ?fife=w340-rw",
+     "book_name" : "환율 상식사전: 환율 기초 개념부터 비즈니스에 도움 되는 경제지식까지 OK!",
+     "writer" : "허욱",
+     "book_price" : "₩9,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A3%BC%EA%B0%84%EC%95%84%EC%8B%9C%EC%95%84%EA%B2%BD%EC%A0%9C_%ED%8E%B8%EC%A7%91%EB%B6%80_Economic_Review_718%ED%98%B8_%EC%A3%BC%EA%B0%84?id=QFr-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QFr-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "Economic Review 718호 (주간)",
+     "writer" : "주간아시아경제 편집부",
+     "book_price" : "₩1,750"
+}
+    ],
+
+	"list_2" :
+	[
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%84%EC%A0%95%EC%B2%A0_%EC%97%B4%EC%8B%AC%ED%9E%88_%EC%82%B0%EB%8B%A4%EB%8A%94_%EA%B2%83%EA%B3%BC_%EC%9E%98_%EC%82%B0%EB%8B%A4%EB%8A%94_%EA%B2%83%EC%9D%98_%EC%B0%A8%EC%9D%B4%EB%8A%94_%EB%AD%98%EA%B9%8C?id=kYxO_2Fr_tQC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kYxO_2Fr_tQC?fife=w340-rw",
+     "book_name" : "열심히 산다는 것과 잘 산다는 것의 차이는 뭘까",
+     "writer" : "진정철",
+     "book_price" : "₩1,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%A9%EB%86%8D%EB%AC%B8_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%ED%9E%98?id=h8NZAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/h8NZAgAAQBAJ?fife=w340-rw",
+     "book_name" : "공부하는 힘: 몰입 전문가 황농문 교수가 전하는 궁극의 학습법",
+     "writer" : "황농문",
+     "book_price" : "₩9,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%ED%98%9C%EC%A0%84_%EC%B2%AB%EC%9D%B8%EC%83%81%EC%9D%84_%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94_%EC%86%8C%ED%86%B5_%EA%B8%B0%EC%88%A0_10?id=ZSwzAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ZSwzAAAAQBAJ?fife=w340-rw",
+     "book_name" : "첫인상을 결정하는 소통 기술 10",
+     "writer" : "정혜전",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%9C%ED%83%80%EC%9E%90%EB%A5%B4_%EA%B7%B8%EB%9D%BC%EC%8B%9C%EC%95%88_%EB%84%88%EB%AC%B4%EB%82%98_%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9D%B4%EC%A7%80%EB%A7%8C_%ED%98%84%EC%8B%A4%EA%B0%90%EA%B0%81%EC%97%86%EB%8A%94_%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C?id=etFbAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w340-rw",
+     "book_name" : "너무나 인간적이지만 현실감각없는 당신에게",
+     "writer" : "발타자르 그라시안",
+     "book_price" : "₩6,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%8D%B0%EC%9D%BC_%EC%B9%B4%EB%84%A4%EA%B8%B0_%EB%8D%B0%EC%9D%BC_%EC%B9%B4%EB%84%A4%EA%B8%B0%EC%9D%98_%EC%9E%90%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%A1%A0?id=zTgXwcsGQcEC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/zTgXwcsGQcEC?fife=w340-rw",
+     "book_name" : "데일 카네기의 자기관리론",
+     "writer" : "데일 카네기",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EC%84%9D%ED%97%8C_THE_AGE_OF_29_7?id=lWgwAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/lWgwAAAAQBAJ?fife=w340-rw",
+     "book_name" : "THE AGE OF 29.7",
+     "writer" : "정석헌",
+     "book_price" : "₩6,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%ED%98%9C%EC%A0%84_%EC%B2%AB%EC%9D%B8%EC%83%81%EC%9D%84_%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94_%EC%9D%B8%EB%A7%A5_%EA%B8%B0%EC%88%A0_21?id=kS0zAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/kS0zAAAAQBAJ?fife=w340-rw",
+     "book_name" : "첫인상을 결정하는 인맥 기술 21",
+     "writer" : "정혜전",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%9A%A9%EC%88%98_%EB%AC%B4%EC%97%AD%EC%A7%80%EC%8B%9D_%EC%9D%B4%EB%B3%B4%EB%8B%A4_%EC%89%AC%EC%9A%B8_%EC%88%98_%EC%97%86%EB%8B%A4?id=BX6w_DfKMK0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/BX6w_DfKMK0C?fife=w340-rw",
+     "book_name" : "무역지식 이보다 쉬울 수 없다",
+     "writer" : "김용수",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%8C%80_%ED%95%98%ED%8F%AC%EB%93%9C_%EB%8B%B9%EC%8B%A0%EC%9D%B4_%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9E%90%EB%9D%BC%EB%A9%B4?id=OXHRAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/OXHRAwAAQBAJ?fife=w340-rw",
+     "book_name" : "당신이 경제학자라면",
+     "writer" : "팀 하포드",
+     "book_price" : "₩12,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A1%A0%EB%8B%A4_%EB%B2%88_%EC%8B%9C%ED%81%AC%EB%A6%BF?id=Vfjg9Clj8-AC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Vfjg9Clj8-AC?fife=w340-rw",
+     "book_name" : "시크릿",
+     "writer" : "론다 번",
+     "book_price" : "₩9,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%9A%A9%ED%99%94_%EC%9C%A0%EB%A8%B8%EB%8B%AC%EC%9D%B8?id=ZCxacbBgDRkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/ZCxacbBgDRkC?fife=w340-rw",
+     "book_name" : "유머달인",
+     "writer" : "김용화",
+     "book_price" : "₩1,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%84%EC%B0%BD%EB%B2%94_2013%EB%85%84_7_9%EA%B8%89_%EA%B3%B5%EB%AC%B4%EC%9B%90_%EC%98%81%EB%8B%A8%EC%96%B4?id=iphBAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/iphBAwAAQBAJ?fife=w340-rw",
+     "book_name" : "2013년 7 · 9급 공무원 영단어",
+     "writer" : "진창범",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%9C%ED%84%B0_%EB%B9%84%ED%8A%B8%EB%A7%8C_%EA%B5%AD%EA%B0%80%EB%B6%80%EB%8F%84?id=JWowAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/JWowAAAAQBAJ?fife=w340-rw",
+     "book_name" : "국가부도",
+     "writer" : "발터 비트만",
+     "book_price" : "₩7,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%8D%B0%EC%9D%BC_%EC%B9%B4%EB%84%A4%EA%B8%B0_%EB%8D%B0%EC%9D%BC_%EC%B9%B4%EB%84%A4%EA%B8%B0%EC%9D%98_%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0?id=g7oy5NXd890C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/g7oy5NXd890C?fife=w340-rw",
+     "book_name" : "데일 카네기의 인간관계론",
+     "writer" : "데일 카네기",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%99%8D%EC%84%B1%EC%A7%84_%EB%B3%91%EC%9B%90%EC%9D%84_%EC%82%B4%EB%A6%AC%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EB%B3%91%EC%9B%90%EC%9D%84_%EC%A3%BD%EC%9D%B4%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85?id=2WzzAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/2WzzAwAAQBAJ?fife=w340-rw",
+     "book_name" : "병원을 살리는 마케팅 병원을 죽이는 마케팅",
+     "writer" : "홍성진",
+     "book_price" : "₩10,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%84%EC%9C%A0%EC%A0%95_%EA%B5%AD%EB%82%B4_%EC%B5%9C%EC%B4%88%EC%9D%98_%EB%B3%B4%EC%9D%B4%EC%8A%A4%EC%BD%94%EC%B9%98_%EC%9E%84%EC%9C%A0%EC%A0%95%EC%9D%98_%EB%AA%A9%EC%86%8C%EB%A6%AC_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%EB%B6%81?id=G85TAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/G85TAwAAQBAJ?fife=w340-rw",
+     "book_name" : "국내 최초의 보이스코치 임유정의 목소리 트레이닝북",
+     "writer" : "임유정",
+     "book_price" : "₩11,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8B%AC%ED%98%84%EC%88%98_26%EC%84%B8_100%EC%96%B5_%EB%B6%80%EC%9E%90?id=g-8iNJha19wC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/g-8iNJha19wC?fife=w340-rw",
+     "book_name" : "26세 100억 부자",
+     "writer" : "심현수",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%94%BC%EC%98%A4%EB%82%98_%EB%94%B1_%EA%B7%B8%EB%86%88%EA%B3%BC_%EA%B2%B0%ED%98%BC%EC%9D%84_%EC%9D%B4%EB%A3%A8%EB%8B%A4?id=jR-GAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/jR-GAAAAQBAJ?fife=w340-rw",
+     "book_name" : "딱 그놈과 결혼을 이루다",
+     "writer" : "피오나",
+     "book_price" : "₩7,680"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%A0%EB%8C%80%EC%9D%B8_2014%EB%85%84_%EB%B6%80%EB%8F%99%EC%82%B0%EC%9D%80_%EC%96%B4%EB%94%94%EB%A1%9C_%EA%B0%80%EB%82%98?id=OJghAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/OJghAwAAQBAJ?fife=w340-rw",
+     "book_name" : "2014년 부동산은 어디로 가나",
+     "writer" : "선대인",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%9C%EB%9F%AC%EB%AF%B8_%EB%A6%AC%ED%94%84%ED%82%A8_3%EC%B0%A8_%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85?id=tXSCaSmie7gC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/tXSCaSmie7gC?fife=w340-rw",
+     "book_name" : "3차 산업혁명: 수평적 권력은 에너지, 경제, 그리고 세계를 어떻게 바꾸는가",
+     "writer" : "제러미 리프킨",
+     "book_price" : "₩14,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%A5%EB%B0%95%EC%9B%90_%EB%B6%80%EB%8F%99%EC%82%B0_%ED%95%84%EC%88%98_%EC%A7%80%EC%8B%9D?id=qJUQxMNNqRkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/qJUQxMNNqRkC?fife=w340-rw",
+     "book_name" : "부동산 필수 지식",
+     "writer" : "장박원",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A5%98%EB%8C%80%ED%98%84_%EC%A7%81%EC%9E%A5%EC%9D%B8%EB%93%A4%EC%9D%B4_%EA%B0%80%EC%9E%A5_%EA%B6%81%EA%B8%88%ED%95%B4%ED%95%98%EB%8A%94_%EA%B8%88%EC%9C%B5%EC%83%81%EC%8B%9D?id=5JvPxkXdLyEC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/5JvPxkXdLyEC?fife=w340-rw",
+     "book_name" : "직장인들이 가장 궁금해하는 금융상식",
+     "writer" : "류대현",
+     "book_price" : "₩5,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%B2%AD%ED%97%88_%EB%A6%AC%EB%8D%94%EC%9D%98_%EC%9E%90%EA%B2%A9?id=BXWQZdcGMOkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/BXWQZdcGMOkC?fife=w340-rw",
+     "book_name" : "리더의 자격",
+     "writer" : "청허",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%9C%EA%B8%B0%EC%88%98_%EC%BB%A4%ED%94%8C%EC%9E%AC%ED%85%8C%ED%81%AC?id=vYbx6HVeC2kC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/vYbx6HVeC2kC?fife=w340-rw",
+     "book_name" : "커플재테크",
+     "writer" : "서기수",
+     "book_price" : "₩7,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%95%EC%83%81%EB%AF%BC_%EC%97%AC%EC%9E%90%EB%A5%BC_%EA%BC%AC%EC%8B%9C%EB%8A%94_%EA%B8%B0%EC%88%A0_%ED%95%9C%EB%9F%89%EC%88%A0_2?id=d8_-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/d8_-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "여자를 꼬시는 기술, 한량술 2",
+     "writer" : "박상민",
+     "book_price" : "₩2,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%97%B0%EC%95%A0%EA%B2%8C%EB%86%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%94%BD%EC%97%85%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8_%EC%97%B0%EC%95%A0%EC%9D%98_%EA%B8%B0%EC%88%A0?id=yt4CBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/yt4CBAAAQBAJ?fife=w340-rw",
+     "book_name" : "픽업아티스트, 연애의 기술",
+     "writer" : "연애게놈프로젝트",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AF%B8%ED%95%98%EC%9D%B4_%EC%B9%99%EC%84%BC%ED%8A%B8%EB%AF%B8%ED%95%98%EC%9D%B4_%ED%95%84%EB%A6%BD_%EC%BD%94%ED%8B%80%EB%9F%AC_%EA%B6%8C%ED%84%B0_%EC%8A%88%EB%AF%B8%ED%8A%B8_%EC%B5%9C%EA%B3%A0%EC%9D%98_%EC%84%9D%ED%95%99%EB%93%A4%EC%9D%80_%EC%96%B4%EB%96%A4_%EC%A7%88%EB%AC%B8%EC%9D%84_%ED%95%A0%EA%B9%8C?id=4uYCBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/4uYCBAAAQBAJ?fife=w340-rw",
+     "book_name" : "최고의 석학들은 어떤 질문을 할까",
+     "writer" : "미하이 칙센트미하이, 필립 코틀러, 권터 슈미트 ",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%98%81%EC%A3%BC_%EC%9D%BC%EC%9D%B8%EC%9E%90_%EC%9C%A0%EC%9E%AC%EC%84%9D?id=jKnsAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/jKnsAgAAQBAJ?fife=w340-rw",
+     "book_name" : "일인자 유재석",
+     "writer" : "김영주",
+     "book_price" : "₩7,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%95%9C%EC%B9%98%ED%98%B8_%EC%99%9C_%EB%82%98%EB%8A%94_%EB%8F%88%EC%9D%84_%EB%AA%BB_%EB%B2%8C%EA%B9%8C?id=9vWPduaDnj0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/9vWPduaDnj0C?fife=w340-rw",
+     "book_name" : "왜 나는 돈을 못 벌까",
+     "writer" : "한치호",
+     "book_price" : "₩3,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%97%B0%EA%B5%AC%ED%9A%8C_%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94_%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98_%EC%9E%90%EA%B8%B0%EA%B3%84%EB%B0%9C?id=QSfhaMLlvQ4C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/QSfhaMLlvQ4C?fife=w340-rw",
+     "book_name" : "성공하는 사람들의 자기계발",
+     "writer" : "한국인재경영연구회",
+     "book_price" : "₩6,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B0%95%EC%83%81%EA%B5%AC_%EC%9D%B4%EA%B8%B0%EB%8A%94_%EC%8A%B5%EA%B4%80%EC%9D%84_%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94_100%EC%9D%BC%EC%9D%98_%EB%B2%95%EC%B9%99?id=4F_CMQp4CwkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/4F_CMQp4CwkC?fife=w340-rw",
+     "book_name" : "이기는 습관을 만들어주는 100일의 법칙",
+     "writer" : "강상구",
+     "book_price" : "₩6,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AF%B8%EB%9E%98%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%97%B0%EA%B5%AC%ED%9A%8C_%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90?id=fMaR37nHIBYC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/fMaR37nHIBYC?fife=w340-rw",
+     "book_name" : "초보자를 위한 주식투자",
+     "writer" : "미래증권투자연구회",
+     "book_price" : "₩7,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EB%AA%85%EB%A1%9C_%EC%83%81%EC%8A%B9%EB%AF%B8%EC%86%8C_%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4_%EB%B6%80%EC%9E%90%EB%93%A4?id=uQC-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/uQC-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "월급쟁이 부자들: 월급쟁이 부자들",
+     "writer" : "이명로(상승미소)",
+     "book_price" : "₩10,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9B%A8%EC%9D%B8_%EB%8B%A4%EC%9D%B4%EC%96%B4_%ED%96%89%EB%B3%B5%ED%95%9C_%EC%9D%B4%EA%B8%B0%EC%A3%BC%EC%9D%98%EC%9E%90_%EA%B0%9C%EC%A0%95%ED%8C%90?id=RbmHUA5LfUwC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RbmHUA5LfUwC?fife=w340-rw",
+     "book_name" : "행복한 이기주의자 (개정판)",
+     "writer" : "웨인 다이어",
+     "book_price" : "₩12,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%96%91%ED%98%B8_%EA%B7%B8_%EB%A7%90%EC%9D%B4_%EC%A0%95%EB%8B%B5?id=tWswAAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/tWswAAAAQBAJ?fife=w340-rw",
+     "book_name" : "그 말이 정답",
+     "writer" : "김양호",
+     "book_price" : "₩13,500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%9C%EC%A0%95%ED%97%8C_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%87%BC%ED%95%91%EB%AA%B0%EC%B0%BD%EC%97%85_%EC%9D%B4%EB%B3%B4%EB%8B%A4_%EC%89%AC%EC%9A%B8_%EC%88%98_%EC%97%86%EB%8B%A4?id=Yz18VVU6AP0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Yz18VVU6AP0C?fife=w340-rw",
+     "book_name" : "인터넷쇼핑몰창업 이보다 쉬울 수 없다",
+     "writer" : "서정헌",
+     "book_price" : "₩9,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A7%80%ED%98%84_%ED%8F%AC%EC%8A%A4%ED%8A%B8_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0_%EA%B2%BD%EA%B3%84%EC%9D%98_%EB%B6%95%EA%B4%B4?id=RSdXAQAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/RSdXAQAAQBAJ?fife=w340-rw",
+     "book_name" : "포스트 스마트폰, 경계의 붕괴: 3년 후 IoT 전쟁, 모든 것이 ON되는 세상이 온다",
+     "writer" : "김지현",
+     "book_price" : "₩9,800"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%86%A0%EB%8B%88_%EA%B3%A0%EB%93%A0_%EB%B3%B4%ED%97%98%EC%99%95_%ED%86%A0%EB%8B%88%EA%B3%A0%EB%93%A0%EC%9D%98_%EC%98%81%EC%97%85%EB%85%B8%ED%8A%B8?id=NdJPzCvv9IkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/NdJPzCvv9IkC?fife=w340-rw",
+     "book_name" : "보험왕 토니고든의 영업노트",
+     "writer" : "토니 고든",
+     "book_price" : "₩6,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%ED%95%98%EC%95%BC%EC%8B%9C_%EC%95%84%EC%B8%A0%EB%AC%B4_%ED%9A%8C%EA%B3%84%ED%95%99_%EC%BD%98%EC%84%9C%ED%8A%B8_1?id=uLJ3AgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/uLJ3AgAAQBAJ?fife=w340-rw",
+     "book_name" : "회계학 콘서트 1",
+     "writer" : "하야시 아츠무",
+     "book_price" : "₩10,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A0%95%EA%B8%B0%EC%88%98_%EA%B2%BD%EB%A7%A4%EB%B0%95%EC%82%AC_%EC%A0%95%EA%B8%B0%EC%88%98%EC%9D%98_%EC%8B%A4%EC%A0%84%EA%B2%BD%EB%A7%A4_%EB%B0%94%EC%9D%B4%EB%B8%94_%EC%B4%88%EA%B8%89_I?id=o-4qsS-1BCkC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/o-4qsS-1BCkC?fife=w340-rw",
+     "book_name" : "경매박사 정기수의 실전경매 바이블 초급 I",
+     "writer" : "정기수",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%84%EC%B0%BD%EB%B2%94_2013_%EA%B3%B5%EB%AC%B4%EC%9B%90_%ED%97%8C%EB%B2%95_%EA%B8%B0%EC%B6%9C_%EB%B2%95%EC%A0%84?id=iGxDAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/iGxDAwAAQBAJ?fife=w340-rw",
+     "book_name" : "2013 공무원 헌법 기출 법전",
+     "writer" : "진창범",
+     "book_price" : "₩500"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%9D%BC%EB%96%BC%ED%82%B9_%EC%B9%B4%EC%82%AC%EB%85%B8%EB%B0%94_%EC%B9%B4%ED%8E%98_%EC%82%AC%EC%97%85_%EB%85%B8%ED%95%98%EC%9A%B0_%EB%B0%94%EB%A1%9C%EC%95%8C%EA%B8%B0?id=EU00AAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/EU00AAAAQBAJ?fife=w340-rw",
+     "book_name" : "카사노바 : 카페 사업 노하우 바로알기: 착한 카페 라떼킹이 알려주는 카페 창업 친절가이드",
+     "writer" : "라떼킹",
+     "book_price" : "무료"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%A5%EC%B0%BD%ED%9B%88_%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%8B%A0%EB%AC%B8%EC%82%AC%EB%A1%9C_%EB%8F%88%EB%B2%8C%EA%B8%B0_2_%EC%99%84%EA%B2%B0?id=3OoEBAAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/3OoEBAAAQBAJ?fife=w340-rw",
+     "book_name" : "인터넷 신문사로 돈벌기 2 (완결)",
+     "writer" : "장창훈",
+     "book_price" : "₩4,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%8B%9C%EB%B6%80%EC%95%BC_%EC%87%BC%EC%A1%B0_%EC%83%81%EB%8C%80%EC%9D%98_%EC%8B%AC%EB%A6%AC%EB%A5%BC_%EC%9D%BD%EB%8A%94_%EA%B8%B0%EC%88%A0?id=Z_IlS7pcQUsC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Z_IlS7pcQUsC?fife=w340-rw",
+     "book_name" : "상대의 심리를 읽는 기술",
+     "writer" : "시부야 쇼조",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A7%A0%EB%8F%8C%EC%9D%B4%EC%B9%B4%ED%8E%98_%EC%8A%88%ED%8D%BC%EC%A7%A0_10%EC%9D%B8_%EB%88%84%EA%B5%AC%EB%82%98_%EC%9B%94%EA%B8%89%EB%A7%8C%EC%9C%BC%EB%A1%9C_1%EC%96%B5_%EB%AA%A8%EC%9D%80%EB%8B%A4?id=Mp2oAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Mp2oAgAAQBAJ?fife=w340-rw",
+     "book_name" : "누구나 월급만으로 1억 모은다!: 35세 전, 종자돈 1억이 평생을 좌우한다!",
+     "writer" : "짠돌이카페 슈퍼짠 10인",
+     "book_price" : "₩6,900"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9E%A5%ED%99%8D%ED%83%81_%EC%84%9C%EB%A5%B8%EC%97%90%EB%8A%94_%EA%BC%AD_%EB%A7%8C%EB%82%98%EC%95%BC_%ED%95%A0_%EC%A0%80%EC%B6%95%EC%83%9D%ED%99%9C_%EA%B0%80%EC%9D%B4%EB%93%9C?id=LDdJAgAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/LDdJAgAAQBAJ?fife=w340-rw",
+     "book_name" : "서른에는 꼭 만나야 할 저축생활 가이드",
+     "writer" : "장홍탁",
+     "book_price" : "₩8,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%ED%95%AD%EC%95%88_%EC%B2%B4%EC%9D%B8%EC%A7%80_CHANGE?id=vDAZa9nQ8FIC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/vDAZa9nQ8FIC?fife=w340-rw",
+     "book_name" : "체인지 CHANGE",
+     "writer" : "김항안",
+     "book_price" : "₩5,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%84%9C%EA%B8%B0%EC%9B%90_%EC%82%AC%EB%9E%8C%EC%9D%84_%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94_%EC%84%A4%EB%93%9D%EB%A0%A5_2_%ED%99%94%EC%88%A0%ED%8E%B8?id=Y5jfoKC_8OgC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/Y5jfoKC_8OgC?fife=w340-rw",
+     "book_name" : "사람을 움직이는 설득력 2 : 화술편",
+     "writer" : "서기원",
+     "book_price" : "₩1,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A7%B9%EC%9E%AC%EC%9B%90_1%EC%96%B5%EC%9D%98_%EB%B2%BD?id=2Zv7RURgt0UC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/2Zv7RURgt0UC?fife=w340-rw",
+     "book_name" : "1억의 벽",
+     "writer" : "맹재원",
+     "book_price" : "₩9,100"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%A6%AC%EC%B0%A8%EB%93%9C_%EC%85%B0%EB%A6%AC%EB%8B%A8_%EB%82%98%EB%8A%94_%EC%A6%90%EA%B1%B0%EC%9B%80_%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%97%90_%EB%8B%A4%EB%8B%8C%EB%8B%A4?id=R5r-AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/R5r-AwAAQBAJ?fife=w340-rw",
+     "book_name" : "나는 즐거움 주식회사에 다닌다",
+     "writer" : "리차드 셰리단",
+     "book_price" : "₩10,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%95%EC%83%81%EB%AF%BC_%EC%97%AC%EC%9E%90%EB%A5%BC_%EA%BC%AC%EC%8B%9C%EB%8A%94_%EA%B8%B0%EC%88%A0_%ED%95%9C%EB%9F%89%EC%88%A0?id=gvX5AwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/gvX5AwAAQBAJ?fife=w340-rw",
+     "book_name" : "여자를 꼬시는 기술, 한량술",
+     "writer" : "박상민",
+     "book_price" : "₩3,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B9%80%EC%A2%85%EC%84%A0_20%EB%8C%80%EB%9D%BC%EB%A9%B4_%EB%AC%B4%EC%A1%B0%EA%B1%B4_%EC%8D%A8%EB%A8%B9%EB%8A%94_%EA%B2%BD%EC%A0%9C%EC%83%81%EC%8B%9D?id=yqEQ_PwPRr0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/yqEQ_PwPRr0C?fife=w340-rw",
+     "book_name" : "20대라면 무조건 써먹는 경제상식",
+     "writer" : "김종선",
+     "book_price" : "₩8,700"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%AF%B8%EB%9E%98%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%97%B0%EA%B5%AC%ED%9A%8C_%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%ED%8E%80%EB%93%9C%ED%88%AC%EC%9E%90?id=KlhUxt-R_LMC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/KlhUxt-R_LMC?fife=w340-rw",
+     "book_name" : "초보자를 위한 펀드투자",
+     "writer" : "미래증권투자연구회",
+     "book_price" : "₩7,400"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%95%88%EC%83%81%ED%97%8C_%EB%AF%B8%EC%B9%98%EB%8F%84%EB%A1%9D_%EB%82%98%EB%A5%BC_%EB%B0%94%EA%BE%B8%EA%B3%A0_%EC%8B%B6%EC%9D%84_%EB%95%8C?id=j34YEvEw_j0C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/j34YEvEw_j0C?fife=w340-rw",
+     "book_name" : "미치도록 나를 바꾸고 싶을 때",
+     "writer" : "안상헌",
+     "book_price" : "₩7,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EC%84%9C%EC%A0%95_%EC%9D%B4%EA%B8%B0%EB%8A%94_%EB%8C%80%ED%99%94?id=LpgO3LOEwK4C",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/LpgO3LOEwK4C?fife=w340-rw",
+     "book_name" : "이기는 대화",
+     "writer" : "이서정",
+     "book_price" : "₩5,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%A1%B0%EB%8D%98_%EB%A9%94%ED%81%AC%EB%84%88_Jordan_Mechner_%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%84%EC%9D%98_%EC%99%95%EC%9E%90_%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80?id=xjrGXVsBOkgC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/xjrGXVsBOkgC?fife=w340-rw",
+     "book_name" : "페르시아의 왕자 : 개발일지",
+     "writer" : "조던 메크너(Jordan Mechner)",
+     "book_price" : "₩8,200"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EA%B6%8C%EC%86%8C%ED%98%84_%EA%B8%88%EC%9C%B5%EC%A7%80%EC%8B%9D_%EC%9D%B4%EB%B3%B4%EB%8B%A4_%EC%89%AC%EC%9A%B8_%EC%88%98_%EC%97%86%EB%8B%A4?id=UP9xyS3V_KIC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/UP9xyS3V_KIC?fife=w340-rw",
+     "book_name" : "금융지식 이보다 쉬울 수 없다",
+     "writer" : "권소현",
+     "book_price" : "₩9,600"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EC%9D%B4%EB%8F%99%EC%A4%80_%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%B6%9C%ED%8C%90_%EB%A7%88%EC%BC%80%ED%8C%85_%EB%A7%88%EC%9D%B8%EB%93%9C_%ED%8E%B8?id=TbU_wuV8TEUC",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/TbU_wuV8TEUC?fife=w340-rw",
+     "book_name" : "온라인 출판 마케팅 - 마인드 편",
+     "writer" : "이동준",
+     "book_price" : "₩1,000"
+},
+{
+     "url_book" : "http://play.google.com/store/books/details/%EB%B0%95%EB%AF%BC%EC%A7%84_%EC%86%8C%EA%B0%9C%ED%8C%85_%EB%8C%80%ED%99%94%EB%B2%95?id=iqFAAwAAQBAJ",
+     "img_book" : "https://encrypted.google.com/books/images/frontcover/iqFAAwAAQBAJ?fife=w340-rw",
+     "book_name" : "소개팅 대화법",
+     "writer" : "박민진",
+     "book_price" : "₩3,000"
+}]
+}
